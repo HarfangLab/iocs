@@ -18,9 +18,9 @@ cpanel.netbar[.]org/assets/js/xml.php
 dcgems[.]net/plugins/authentication/auth.php
 duorhytm[.]fun
 line-api[.]com/wp-mails.php
-secure-cama[.]com
+secure-cama[.]com/check
 www.areekaweb[.]com:8080/js/chat.php
 www.ehangmun[.]com/board/selectbox/xml.php
 www.nssa.gov[.]mm/temp/get.php
 www.safe[.]rocks
-www.secure-cama[.]com
+www.secure-cama[.]com/check
