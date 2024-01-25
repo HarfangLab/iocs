@@ -10,13 +10,17 @@
 66.42.68[.]120
 89.23.107[.]155
 91.92.254[.]14:80/index
+api.d-n-s[.]name
 catcher.requestcatcher[.]com
 clickcom[.]click
+clicko[.]click
 cpanel.netbar[.]org/assets/js/xml.php
 dcgems[.]net/plugins/authentication/auth.php
 duorhytm[.]fun
 line-api[.]com/wp-mails.php
+secure-cama[.]com
 www.areekaweb[.]com:8080/js/chat.php
 www.ehangmun[.]com/board/selectbox/xml.php
+www.nssa.gov[.]mm/temp/get.php
 www.safe[.]rocks
 www.secure-cama[.]com
