@@ -1,88 +1,78 @@
-#### Hashes (SHA-256)
+# Hashes (SHA-256)
 
-```
-4b71f745707832671067c4d534b486840565ba2cda04e7daf2e2ac1324ff3db8|Malicious Web page HTML file
-12a6ed6b24b77eaad892d7484ba3f150e0d3b3007d78d142dc407158ef77c107|Malicious Web page HTML file
-628bc9f4aa71a015ec415d5d7d8cb168359886a231e17ecac2e5664760ee8eba|Malicious Web page HTML file
-9959c04723b51190536d1cd149083d3719488baa8f5dfcfa00fad8def003c8ef|Malicious Web page HTML file
-516591eda6636ac1852ebac4b9b68e2a14d37e419d71f1697c34b55ee4d18bb4|Malicious Web page HTML file
-516970af209f517b312317b69f2091583fb631422fa0efc2f7cc3b1bfaf4bbf0|Malicious Web page HTML file
-2328921cd1ec88aa3dec45c3367782b7760f6a7aa615b15feaad2e34e206e2f0|Malicious Web page HTML file
-19d0c55ac466e4188c4370e204808ca0bc02bba480ec641da8190cb8aee92bdc|Malicious LNK
-593583b312bf48b7748f4372e6f4a560fd38e969399cf2a96798e2594a517bf4|Malicious LNK
-1b598c7c35f00d2c940dfd3745bd9e5d036df781d391b8f3603a2969c666761b|Malicious LNK
-d84c39579e61c406380f37da7c2a6758ed9a4c9a0e7697c073e2ddbb563360cd|Malicious LNK
-2d844afe1a9f5c59ca96d2ab738ef43aec2391c8a37107d496d1d6cf260cede8|Malicious LNK
-c22868930c02f2d6962167198fde0d3cda78ac18af506b57f1ca25ca5c39c50d|Malicious LNK
-18f891a3737bb53cd1ab451e2140654a376a43b2d75f6695f3133d47a41952b6|MASEPIE
-0429bdc6a302b4288aea1b1e2f2a7545731c50d647672fa65b012b2a2caa386e|MASEPIE
-a333243927bb6956dc051ecea5f91b26a6c233b8164fafb9202e1f1e70ce045f|MASEPIE
-24fd571600dcc00bf2bb8577c7e4fd67275f7d19d852b909395bebcbb1274e04|OCEANMAP
-fe00bd6fba209a347acf296887b10d2574c426fa962b6d4d94c34b384d15f0f1|OCEANMAP
-b61e0f68772f3557024325f3a05e4edb940dbbe380af00f3bdaaaeabda308e72|OCEANMAP
-c8b6291fc7b6339d545cbfa99256e26de26fff5f928fef5157999d121fe46135|OCEANMAP
-50b000a7d61885591ba4ec9df1a0a223dbceb1ac2facafcef3d65c8cbbd64d46|OCEANMAP
-3384a9ef3438bf5ec89f268000cc7c83f15e3cdf746d6a93945add300423f756|OCEANMAP
-abf0c2538b2f9d38c98b422ea149983ca95819aa6ebdac97eae777ea8ba4ca8c|OCEANMAP
-faf8db358e5d3dbe2eb9968d8b19f595f45991d938427124161f5ed45ac958d5|OCEANMAP
-4c1b8d070885e92d61b72dc9424d9b260046f83daf00d93d3121df9ed669a5f9|OCEANMAP
-770206424b8def9f6817991e9a5e88dc5bee0adb54fc7ec470b53c847154c22b|OCEANMAP
-6fb2facdb906fc647ab96135ce2ca7434476fb4f87c097b83fd1dd4e045d4e47|OCEANMAP
-```
+4b71f745707832671067c4d534b486840565ba2cda04e7daf2e2ac1324ff3db8
+12a6ed6b24b77eaad892d7484ba3f150e0d3b3007d78d142dc407158ef77c107
+628bc9f4aa71a015ec415d5d7d8cb168359886a231e17ecac2e5664760ee8eba
+9959c04723b51190536d1cd149083d3719488baa8f5dfcfa00fad8def003c8ef
+516591eda6636ac1852ebac4b9b68e2a14d37e419d71f1697c34b55ee4d18bb4
+516970af209f517b312317b69f2091583fb631422fa0efc2f7cc3b1bfaf4bbf0
+2328921cd1ec88aa3dec45c3367782b7760f6a7aa615b15feaad2e34e206e2f0
+19d0c55ac466e4188c4370e204808ca0bc02bba480ec641da8190cb8aee92bdc
+593583b312bf48b7748f4372e6f4a560fd38e969399cf2a96798e2594a517bf4
+1b598c7c35f00d2c940dfd3745bd9e5d036df781d391b8f3603a2969c666761b
+d84c39579e61c406380f37da7c2a6758ed9a4c9a0e7697c073e2ddbb563360cd
+2d844afe1a9f5c59ca96d2ab738ef43aec2391c8a37107d496d1d6cf260cede8
+c22868930c02f2d6962167198fde0d3cda78ac18af506b57f1ca25ca5c39c50d
+18f891a3737bb53cd1ab451e2140654a376a43b2d75f6695f3133d47a41952b6
+0429bdc6a302b4288aea1b1e2f2a7545731c50d647672fa65b012b2a2caa386e
+a333243927bb6956dc051ecea5f91b26a6c233b8164fafb9202e1f1e70ce045f
+24fd571600dcc00bf2bb8577c7e4fd67275f7d19d852b909395bebcbb1274e04
+fe00bd6fba209a347acf296887b10d2574c426fa962b6d4d94c34b384d15f0f1
+b61e0f68772f3557024325f3a05e4edb940dbbe380af00f3bdaaaeabda308e72
+c8b6291fc7b6339d545cbfa99256e26de26fff5f928fef5157999d121fe46135
+50b000a7d61885591ba4ec9df1a0a223dbceb1ac2facafcef3d65c8cbbd64d46
+3384a9ef3438bf5ec89f268000cc7c83f15e3cdf746d6a93945add300423f756
+abf0c2538b2f9d38c98b422ea149983ca95819aa6ebdac97eae777ea8ba4ca8c
+faf8db358e5d3dbe2eb9968d8b19f595f45991d938427124161f5ed45ac958d5
+4c1b8d070885e92d61b72dc9424d9b260046f83daf00d93d3121df9ed669a5f9
+770206424b8def9f6817991e9a5e88dc5bee0adb54fc7ec470b53c847154c22b
+6fb2facdb906fc647ab96135ce2ca7434476fb4f87c097b83fd1dd4e045d4e47
 
-#### Filenames
+# Filenames
 
-```
-mod.search-ms|WebDAV-hosted search-ms filename
-info-mod.search-ms|WebDAV-hosted search-ms filename
-vinnic.search-ms|WebDAV-hosted search-ms filename
-calendar.search-ms|WebDAV-hosted search-ms filename
-wody.search-ms|WebDAV-hosted search-ms filename
-pol.search-ms|WebDAV-hosted search-ms filename
-```
+mod.search-ms
+info-mod.search-ms
+vinnic.search-ms
+calendar.search-ms
+wody.search-ms
+pol.search-ms
 
-#### Hostnames
+# Hostnames
 
-```
-e-nas.firstcloudit[.]com|Malicious Web page hostname
-nas-files.firstcloudit[.]com|Malicious Web page hostname
-ua-calendar.firstcloudit[.]com|Malicious Web page hostname
-e-mod.firstcloudit[.]com|Malicious Web page hostname
-wody-info-files.firstcloudit[.]com|Malicious Web page hostname
-info-mod.firstcloudit[.]com|Malicious Web page hostname
-e-wody.firstcloudit[.]com|Malicious Web page hostname
-czyrqdnvpujmmjkfhhvs4knf1av02demj.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvsvlaax17vd5r6v.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvsqslblw0mawilr.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvseabz1q5olrum5.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvs9647ioh30wxvd.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvs2x9oyfsn6gd7t.oast[.]fun|Interactsh hostname
-czyrqdnvpujmmjkfhhvsqfxkqz68qzjcd.oast[.]fun|Interactsh hostname
-cn5n8a92vtc00004a0t0gks3tbcyyyyyd.oast[.]fun|Interactsh hostname
-```
+e-nas.firstcloudit[.]com
+nas-files.firstcloudit[.]com
+ua-calendar.firstcloudit[.]com
+e-mod.firstcloudit[.]com
+wody-info-files.firstcloudit[.]com
+info-mod.firstcloudit[.]com
+e-wody.firstcloudit[.]com
+czyrqdnvpujmmjkfhhvs4knf1av02demj.oast[.]fun
+czyrqdnvpujmmjkfhhvsvlaax17vd5r6v.oast[.]fun
+czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast[.]fun
+czyrqdnvpujmmjkfhhvsqslblw0mawilr.oast[.]fun
+czyrqdnvpujmmjkfhhvseabz1q5olrum5.oast[.]fun
+czyrqdnvpujmmjkfhhvs9647ioh30wxvd.oast[.]fun
+czyrqdnvpujmmjkfhhvs2x9oyfsn6gd7t.oast[.]fun
+czyrqdnvpujmmjkfhhvsqfxkqz68qzjcd.oast[.]fun
+cn5n8a92vtc00004a0t0gks3tbcyyyyyd.oast[.]fun
 
-#### IP addresses
+# IP addresses
 
-```
-194.126.178[.]8|WebDAV stager + MASEPIE C2 server (legitimate compromised)
-124.168.91[.]178|WebDAV stager (legitimate compromised)
-159.196.128[.]120|MASEPIE C2 server (legitimate compromised)
-172.114.170[.]18|MASEPIE C2 server (legitimate compromised)
-```
+194.126.178[.]8
+124.168.91[.]178
+159.196.128[.]120
+172.114.170[.]18
 
-#### IP addresses of possibly associated suspicious infrastructure (from May 2023 to January 2024)
-```
+# IP addresses of possibly associated suspicious infrastructure (from May 2023 to January 2024)
+
 61.68.76[.]111
 203.221.195[.]80
 12.171.204[.]129
 12.94.8[.]230
 23.24.68[.]109
-```
 
-#### IP addresses exposing backdoored OpenSSH services (January 2024)
+# IP addresses exposing backdoored OpenSSH services (January 2024)
 
-```
 1.164.20[.]34
 1.33.250[.]101
 1.42.149[.]187
@@ -2173,4 +2163,3 @@ cn5n8a92vtc00004a0t0gks3tbcyyyyyd.oast[.]fun|Interactsh hostname
 99.209.33[.]70
 99.68.177[.]239
 99.7.14[.]77
-```
