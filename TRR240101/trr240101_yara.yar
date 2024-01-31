@@ -68,6 +68,7 @@ rule masepie_campaign_oceanmap
         references = "TRR240101;https://cert.gov.ua/article/6276894"
         hash = "24fd571600dcc00bf2bb8577c7e4fd67275f7d19d852b909395bebcbb1274e04"
         date = "2024-01-24"
+        modified = "2024-01-31"
         author = "HarfangLab"
         context = "file"
     strings:
@@ -83,9 +84,11 @@ rule masepie_campaign_oceanmap
         $t2 = "ReplaceBytes" ascii fullword
         $t3 = "fcreds" ascii fullword
         $t4 = "screds" ascii fullword
-        $t5 = "changesecond" wide fullword
-        $t6 = "taskkill /F /PID" wide fullword
-        $t7 = "cmd.exe" wide fullword
+        $t5 = "r_creds" ascii fullword
+        $t6 = "comp_id" ascii fullword
+        $t7 = "changesecond" wide fullword
+        $t8 = "taskkill /F /PID" wide fullword
+        $t9 = "cmd.exe" wide fullword
     condition: 
         filesize > 8KB and filesize < 100KB
         and (uint16be(0) == 0x4D5A)
