@@ -1,0 +1,25 @@
+type,value,comment
+sha-256,9b62af6b13b610f4f90810b2f5aef0a455a301a06c98c49a531384d90f90f921,SameCoin Malicious Attachment (RAR)
+sha-256,ea2ff8f681fd1ab2a4d22f245e6475c68e7fcf9d7f6ec3a549776c4bbe279553,SameCoin Malicious Attachment (RAR)
+sha-256,82db3b82e49259ff9184b58c19e9107473d2eb40c586ffb85462e6a649db2051,SameCoin Malicious Attachment (RAR)
+sha-256,7e8caa1c3c1de1d8d8761e618408efdc875fb925bda31e0489234664642e33c3,SameCoin Malicious Attachment (RAR)
+sha-256,cff976d15ba6c14c501150c63b69e6c06971c07f8fa048a9974ecf68ab88a5b6,SameCoin Loader
+sha-256,1624e5c9dd10c4ef21dee571cac3343cac1a6a94a847d85dc264786f4ef24f40,SameCoin Loader
+sha-256,598ed8a0a9a3b3c94bf8d8bfdd9f86882d7c97f9f3dc6c85e3e34ad77489186c,SameCoin Loader
+sha-256,4d28afa4d22ddae336de418380de21bb750231331ccdacfd4b7eff5ab6b1b693,SameCoin Loader
+sha-256,e6d2f43622e3ecdce80939eec9fffb47e6eb7fc0b9aa036e9e4e07d7360f2b89,SameCoin Wiper
+sha-256,b447ba4370d9becef9ad084e7cdf8e1395bafde1d15e82e23ca1b9808fef13a7,SameCoin Tasks Spreader
+sha-256,556b5101e0e8aee004bed89f1686ce781a075fde5a8a86fa5409fe34a2d1b6d9,SameCoin APK
+sha-256,5a5eea6a56aebb2d8b939dc57967395b1b85cbfe7ca06b86a1916dfa31858e09,libexampleone.so (arm64-v8a)
+sha-256,c3938b85ec97fe4f433102b050f89250236b7379994da55314c24c623fb469a9,libexampleone.so (arm64-v7a)
+sha-256,248054658277e6971eb0b29e2f44d7c3c8d7c5abc7eafd16a3df6c4ca555e817,libexampleone.so (x86)
+sha-256,18d6b9d09782c49162b9b57eaae077cbc37d25132253578fa4874eb2b7a46c50,libexampleone.so (x86_64)
+filepath,C:\Users\Public\Microsoft System Agent.exe,SameCoin Loader
+filepath,C:\Users\Public\Windows Defender Agent.exe,SameCoin Tasks Spreader
+filepath,C:\Users\Public\Microsoft System Manager.exe,SameCoin Wiper
+filepath,C:\Users\Public\Microsoft Connection Agent.jpg,SameCoin propaganda image
+filepath,C:\Users\Public\Video.mp4,SameCoin propaganda video
+url,hxxps://store9.gofile[.]io/download/76732040-c118-40cc-a33e-f7fb22f1c1aa/INCD-SecurityUpdate-FEB24.rar,SameCoin Malicious Attachment (RAR)
+url,hxxps://store27.gofile[.]io/download/15c1c6a0-2f5b-44ee-951d-a64778fed86d/INCD-SecurityUpdate-FEB24.rar,SameCoin Malicious Attachment (RAR)
+url,hxxps://store2.gofile[.]io/download/fab845cc-aba0-49ce-ab89-753d7685bd46/INCD-SecurityUpdate-FEB24.apk,SameCoin APK
+url,hxxps://store2.gofile[.]io/download/803df49c-d77d-44d0-ad2f-28818432a4ce/INCD-SecurityUpdate-FEB24.apk,SameCoin APK

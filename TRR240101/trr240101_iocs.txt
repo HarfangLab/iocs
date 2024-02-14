@@ -28,7 +28,7 @@ faf8db358e5d3dbe2eb9968d8b19f595f45991d938427124161f5ed45ac958d5
 770206424b8def9f6817991e9a5e88dc5bee0adb54fc7ec470b53c847154c22b
 6fb2facdb906fc647ab96135ce2ca7434476fb4f87c097b83fd1dd4e045d4e47
 
-# Filenames
+# Files paths
 
 mod.search-ms
 info-mod.search-ms
