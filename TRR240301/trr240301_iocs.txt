@@ -1,0 +1,20 @@
+Note: the following indicators are outdated and presented for reference and historical value only.
+
+# Hostnames
+
+66.98.127.105.16clouds[.]com
+74.120.172.10.16clouds[.]com
+mailnotes[.]online
+
+# IP addresses
+
+101.219.17[.]111
+118.31.3[.]116
+1.192.194[.]162
+171.88.142[.]148
+171.88.143[.]37
+171.88.143[.]72
+221.13.74[.]218
+66.98.127[.]105
+8.218.67[.]52
+74.120.172[.]10
