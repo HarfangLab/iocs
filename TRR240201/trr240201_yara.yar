@@ -84,9 +84,9 @@ rule samecoin_campaign_nativewiper {
         author = "HarfangLab"
         description = "Matches the native Android library used in the SameCoin campaign"
         references = "TRR240201"
+        hash = "248054658277e6971eb0b29e2f44d7c3c8d7c5abc7eafd16a3df6c4ca555e817"
         last_modified = "2024-02-13"
         context = "file"
-        hash = "248054658277e6971eb0b29e2f44d7c3c8d7c5abc7eafd16a3df6c4ca555e817"
     strings:
         $native_export = "Java_com_example_exampleone_MainActivity_deleteInCHunks" ascii
         $f1 = "_Z9chunkMainv" ascii
