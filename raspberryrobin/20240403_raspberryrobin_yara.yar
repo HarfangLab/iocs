@@ -1,0 +1,116 @@
+rule anti_emulation_defender {
+    meta:
+        description = "Research Windows Defender Emulator artefacts that can be used as anti-emulator by malware"
+        references = "https://harfanglab.io/en/insidethelab/raspberry-robin-and-its-new-anti-emulation-trick/‎"
+        hash = "242851abe09cc5075d2ffdb8e5eba2f7dcf22712625ec02744eecb52acd6b1bf"
+        date = "2024-04-03"
+        author = "Harfanglab"
+        context = "file"
+    strings:
+        $s_00 = "aaa_TouchMeNot_" wide ascii nocase
+        $s_01 = "_TouchMeNot_" wide ascii nocase
+        $s_03 = "C:\\myapp.exe" wide ascii nocase
+        $s_04 = "C:\\Mirc\\" wide ascii nocase
+        $s_05 = "C:\\Mirc\\mirc.ini" wide ascii nocase
+        $s_06 = "C:\\Mirc\\script.ini" wide ascii nocase
+        $s_07 = "HAL9TH" wide ascii nocase fullword
+        $s_09 = "MpSockVendor" wide ascii nocase fullword
+        $s_10 = "MPGoodStatus" wide ascii nocase fullword
+        $s_11 = "MpDisableSehLimit" wide ascii nocase fullword
+        $s_12 = "NtControlChannel" wide ascii nocase fullword
+        $s_13 = "ObjMgr_ValidateVFSHandle" wide ascii nocase fullword
+        $s_14 = "ThrdMgr_GetCurrentThreadHandle" wide ascii nocase fullword
+        $s_15 = "ThrdMgr_SaveTEB" wide ascii nocase fullword
+        $s_16 = "ThrdMgr_SwitchThreads" wide ascii nocase fullword
+        $s_17 = "VFS_DeleteFileByHandle" wide ascii nocase fullword
+        $s_18 = "VFS_DeleteFile" wide ascii nocase fullword
+        $s_19 = "VFS_DeleteFileByHandle" wide ascii nocase fullword
+        $s_20 = "VFS_FileExists" wide ascii nocase fullword
+        $s_21 = "VFS_FindClose" wide ascii nocase fullword
+        $s_22 = "VFS_FindFirstFile" wide ascii nocase fullword
+        $s_23 = "VFS_FindNextFile" wide ascii nocase fullword
+        $s_24 = "VFS_FlushViewOfFile" wide ascii nocase fullword
+        $s_25 = "VFS_GetAttrib" wide ascii nocase fullword
+        $s_26 = "VFS_GetHandle" wide ascii nocase fullword
+        $s_27 = "VFS_GetLength" wide ascii nocase fullword
+        $s_28 = "VFS_MapViewOfFile" wide ascii nocase fullword
+        $s_29 = "VFS_MoveFile" wide ascii nocase fullword
+        $s_30 = "VFS_Open" wide ascii nocase fullword
+        $s_31 = "VFS_Read" wide ascii nocase fullword
+        $s_32 = "VFS_SetAttrib" wide ascii nocase fullword
+        $s_33 = "VFS_SetCurrentDir" wide ascii nocase fullword
+        $s_34 = "VFS_SetLength" wide ascii nocase fullword
+        $s_35 = "VFS_UnmapViewOfFile" wide ascii nocase fullword
+        $s_37 = "MpAddToScanQueue" wide ascii nocase fullword
+        $s_38 = "MpCreateMemoryAliasing" wide ascii nocase fullword
+        $s_39 = "MpCallPostEntryPointCode" wide ascii nocase fullword
+        $s_40 = "MpCallPreEntryPointCode" wide ascii nocase fullword
+        $s_41 = "MpDispatchException" wide ascii nocase fullword
+        $s_42 = "MpExitThread" wide ascii nocase fullword
+        $s_43 = "MpFinalize" wide ascii nocase fullword
+        $s_44 = "MpGetCurrentThreadHandle" wide ascii nocase fullword
+        $s_45 = "MpGetCurrentThreadId" wide ascii nocase fullword
+        $s_46 = "MpGetLastSwitchResult" wide ascii nocase fullword
+        $s_47 = "MpGetPseudoThreadHandle" wide ascii nocase fullword
+        $s_48 = "MpGetSelectorBase" wide ascii nocase fullword
+        $s_49 = "MpGetVStoreFileHandle" wide ascii nocase fullword
+        $s_50 = "MpHandlerCodePost" wide ascii nocase fullword
+        $s_51 = "MpIntHandler" wide ascii nocase fullword
+        $s_52 = "MpIntHandlerParam" wide ascii nocase fullword
+        $s_53 = "MpIntHandlerReturnAddress" wide ascii nocase fullword
+        $s_54 = "MpNtdllDatatSection" wide ascii nocase fullword
+        $s_55 = "MpReportEvent" wide ascii nocase fullword
+        $s_56 = "MpReportEventEx" wide ascii nocase fullword
+        $s_57 = "MpReportEventW" wide ascii nocase fullword
+        $s_58 = "MpSehHandler" wide ascii nocase fullword
+        $s_59 = "MpSetSelectorBase" wide ascii nocase fullword
+        $s_60 = "MpStartProcess" wide ascii nocase fullword
+        $s_61 = "MpSwitchToNextThread" wide ascii nocase fullword
+        $s_62 = "MpSwitchToNextThread_WithCheck" wide ascii nocase fullword
+        $s_63 = "MpSwitchToNextThread_NewObjManager" wide ascii nocase fullword
+        $s_64 = "MpTimerEvent" wide ascii nocase fullword
+        $s_65 = "MpTimerEventData" wide ascii nocase fullword
+        $s_66 = "MpUfsMetadataOp" wide ascii nocase fullword
+        $s_67 = "MpValidateVFSHandle" wide ascii nocase fullword
+        $s_68 = "MpVmp32Entry" wide ascii nocase fullword
+        $s_69 = "MpVmp32FastEnter" wide ascii nocase fullword
+        $filter_00 = "mpengine.pdb" ascii nocase
+        $filter_01 = "MsMpEngCP.pdb" ascii nocase
+        $filter_02 = "MsMpEngSvc.pdb" ascii nocase
+        $filter_03 = "MpGear.pdb" ascii nocase
+        $filter_04 = "mrtstub.pdb" ascii nocase
+        $filter_05 = "mrt.pdb" ascii nocase
+        $filter_06 = "ntoskrnl.pdb" ascii nocase
+        $filter_07 = "mscorlib.pdb" ascii nocase
+        $filter_08 = "dbghelp.pdb" ascii nocase
+        $filter_09 = "msvcrt.pdb" ascii nocase
+        $filter_10 = "mrt.exe" wide ascii nocase
+        $filter_11 = "PEBMPAT:Obfuscator_EW2" wide ascii
+        $filter_12 = "Unimplemented type change to VT_" wide ascii
+        $filter_13 = "Initialize engine first!" wide ascii
+        $filter_14 = "VirTool:Win32/Obfuscator" wide ascii
+        $filter_15 = "VDMConsoleOperation" wide ascii
+        $filter_16 = "VDMOperationStarted" wide ascii
+        $filter_17 = "sigutils\\vdlls\\" ascii
+        $filter_18 = "Microsoft.Windows.MalwareRemovalTool" wide ascii
+        $filter_19 = "AppVISVSubsystems32.pdb" ascii nocase
+        $filter_20 = "Microsoft.AppV.ClientProgrammability.Eventing.pdb" ascii nocase
+        $filter_21 = "AppVISVSubsystems64.pdb" ascii nocase
+        $filter_22 = "AppVEntSubsystems.pdb" ascii nocase
+        $filter_24 = "shell32.pdb" ascii nocase
+        $filter_25 = "version.pdb" ascii nocase
+        $filter_26 = "mscoree.pdb" ascii nocase
+        $filter_27 = "ws2_32.pdb" ascii nocase
+        $filter_28 = "advapi32.pdb" ascii nocase
+        $filter_29 = "AppVEntSubsystems64.pdb" ascii nocase
+        $filter_30 = "AppVEntSubsystems32.pdb" ascii nocase
+        $filter_31 = "AppVISVSubsystems.pdb" ascii nocase
+        $filter_32 = "mpengine.dll" ascii wide nocase
+        $filter_33 = "VFSAPI_VFS_" ascii wide
+    condition:
+        uint16(0) == 0x5A4D
+        and uint32(uint32(0x3C)) == 0x00004550
+        and filesize < 5MB
+        and 1 of ($s_*)
+        and not 1 of ($filter*)
+}

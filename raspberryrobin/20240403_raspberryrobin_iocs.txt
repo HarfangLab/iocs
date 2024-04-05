@@ -1,0 +1,18 @@
+# Hashes (SHA-256)
+
+242851abe09cc5075d2ffdb8e5eba2f7dcf22712625ec02744eecb52acd6b1bf|keygen-step-2.cpl (Raspberry Robin)
+483adf61d7d932003659d5d6242eace29ea8416ec810749333793e0efa91610d|keygen-step-2.cpl (Raspberry Robin)
+50158e22481acabc56d8e3d318d6d709fcb7a9e442e76157b518d19e13f8e520|keygen-step-2.cpl (Raspberry Robin)
+93672d67e8100bb984f866888cb042727567d302b30b91356a2b2bc8cd3f7912|keygen-step-2.cpl (Raspberry Robin)
+b5637231e25aa7da8fe925f5b97a2ccbfd082a5463b2a05d2b3221adb35e43d9|keygen-step-2.cpl (Raspberry Robin)
+b81e857427411577552d1ecdd444efaeab23ec903192812d40ab3dd69df98ec5|keygen-step-2.cpl (Raspberry Robin)
+c8d37df88009122c890cb95dc79d895d39339fe1efdcfa5e033d0aea171ffc3d|keygen-step-2.cpl (Raspberry Robin)
+
+# Hostnames
+
+keygenguru[.]com|Raspberry Robin distribution platform
+
+# PE information
+
+hrtbddd69.dll|DLL name in keygen-step-2.cpl export table
+OsTlhtlohe|Exported function in keygen-step-2.cpl
