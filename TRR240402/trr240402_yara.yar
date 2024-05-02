@@ -20,7 +20,6 @@ rule MuddyWater_AteraAgent_Operators {
         $s11 = "COMPANYID001Q3000008JfioIACACCOUNTID"
         $s12 = "COMPANYID001Q300000BeUp3IAFACCOUNTID" 
         $s13 = "COMPANYID001Q3000005gMamIAEACCOUNTID"
-        $s14 = "COMPANYID001Q3000005gMamIAEACCOUNTID"
         $s15 = "mrrobertcornish@gmail.comINTEGRATORLOGINCOMPANYID"
 
         $sc1 = { 0A 28 49 99 78 E5 89 8D F4 0A 23 8E B8 A5 52 E8 } // Atera Network certificate 2024-02-15 - 2025-03-18
