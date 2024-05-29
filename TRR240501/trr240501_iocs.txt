@@ -50,6 +50,16 @@ ab3a284ae6e4e466a0715c162cfab85d75522bec48fa25947b16a0891ec2358a|AllaSenha
 278897ee9158f9843125bc2e26c14f96c4e79d5fc578b7e5973dc8dc919a3400|AllaSenha
 3c89775ae7c35fe3d1ec7e75ac9d4a19959d082d31ab412af243125440ffea6c|AllaSenha
 
+# Domains
+
+nfe-digital[.]digital|Phishing URLs root domain
+nfe-digital[.]top|Phishing URLs root domain
+
+# Possibly malicious and/or associated domains
+
+nfe-digital[.]online|Possibly malicious and/or associated domain
+nfe-digital[.]site|Possibly malicious and/or associated domain
+
 # URLs
 
 \\abrir-documento-adobe-reader-1.brazilsouth.cloudapp.azure[.]com@80\Documentos\|WebDAV stager path (on legitimate Azure infrastructure)
