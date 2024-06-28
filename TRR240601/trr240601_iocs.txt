@@ -1,0 +1,27 @@
+# Hashes (SHA-256)
+
+a8948dd8e4e4961da537b40bf7e313f0358510f93e25dea1a2fafd522bfd0e84|Virtual Hard Disk file
+6fb531839410b65be4f4833d73f02429b4dba8ed56fa236cce76750b9a1be23b|HTA Stager
+d891f4339354d3f4c4b834e781fa4eaca2b59c6a8ee9340cc489ab0023e034c8|First-stage Nim downloader
+d7a66f8529f1c32342c4ed06c4a4750a93bd44161f578e5b94d6d30f7cc41581|First-stage Nim downloader
+c21ad804c22a67ddb62adf5f6153a99268f0b26e359b842ebeabcada824c277f|First-stage Nim downloader
+2070dd30e87c492e6f44ebb0a37bcae7cb309de61e1c4e6223df090bb26b3cd7|Donut and Sliver
+
+# Hostnames
+
+auth.economy-gov-il[.]com|Staging server
+www.economy-gov-il[.]com|Sliver C2
+login.operative-sintecmedia[.]com|Related infrastructure
+portal.operative-sintecmedia[.]com|Related infrastructure
+login.carlsberg[.]site|Related infrastructure
+employees.carlsberg[.]site|Related infrastructure
+portal.carlsberg[.]site|Related infrastructure
+carls.employers-view[.]com|Related infrastructure
+login.microsofonlline[.]com|Related infrastructure
+
+# URLs
+
+hxxps://auth.economy-gov-il[.]com/SUPPOSED_GRASSHOPPER.bin?token=ghhdjsdgsd|NIM downloader target
+hxxps://portal.operative-sintecmedia[.]com/SAD_ATTENUATION.bin|NIM downloader target
+hxxps://portal.operative-sintecmedia[.]com/report.vhd|VHD distribution
+hxxps://employees.carlsberg[.]site/voucher.vhd|VHD distribution
