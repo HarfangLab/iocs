@@ -1,0 +1,15 @@
+type,value,comment
+sha-256,fafa68e626f1b789261c4dd7fae692756cf71881c7273260af26ca051a094a69,Cyclops
+domain,autoupdate[.]uk,Cyclops validator
+ip,88.80.145.126,Cyclops SSH C2 and validator NS
+url,hxxps://127.0.0.1:55561/api/v3/update,Cyclops REST API endpoint
+domain,servicechecker[.]top,Possible BellaCiao or Cyclops validator
+domain,servicesupdate[.]info,Possible former BellaCiao or Cyclops validator
+domain,mail-update[.]info,Possible former BellaCiao or Cyclops validator
+domain,freeheadlines[.]top,Possible former BellaCiao or Cyclops validator
+domain,servicepackupdate[.]info,Possible former BellaCiao or Cyclops validator
+domain,systemupdate[.]info,Possible former BellaCiao or Cyclops validator
+ip,88.80.145[.]93,Possible BellaCiao or Cyclops infrastructure
+ip,88.80.145[.]122,Possible BellaCiao or Cyclops infrastructure
+ip,88.80.145[.]137,Possible former BellaCiao or Cyclops infrastructure
+ip,88.80.145[.]132,Possible former BellaCiao or Cyclops infrastructure

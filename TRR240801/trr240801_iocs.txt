@@ -1,0 +1,25 @@
+# Hashes (SHA-256)
+fafa68e626f1b789261c4dd7fae692756cf71881c7273260af26ca051a094a69|Cyclops
+
+# Domains
+autoupdate[.]uk|Cyclops validator
+
+# IP Addresses
+88.80.145.126|Cyclops SSH C2 and validator NS
+
+# URLs
+hxxps://127.0.0.1:55561/api/v3/update|Cyclops REST API endpoint
+
+# Possibly associated domains
+servicechecker[.]top|Possible BellaCiao or Cyclops validator
+servicesupdate[.]info|Possible former BellaCiao or Cyclops validator
+mail-update[.]info|Possible former BellaCiao or Cyclops validator
+freeheadlines[.]top|Possible former BellaCiao or Cyclops validator
+servicepackupdate[.]info|Possible former BellaCiao or Cyclops validator
+systemupdate[.]info|Possible former BellaCiao or Cyclops validator
+
+# Possibly associated IP Addresses
+88.80.145[.]93|Possible BellaCiao or Cyclops infrastructure
+88.80.145[.]122|Possible BellaCiao or Cyclops infrastructure
+88.80.145[.]137|Possible former BellaCiao or Cyclops infrastructure
+88.80.145[.]132|Possible former BellaCiao or Cyclops infrastructure
