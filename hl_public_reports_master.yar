@@ -480,9 +480,9 @@ rule apt31_rawdoor_dropper
         $service_target = "%SystemRoot%\\system32\\svchost.exe -k netsvcs" ascii 
         $service_dispname = "Microsoft .NET Framework NGEN" ascii 
         $drop_name = "~DF313.msi" ascii 
-        $msg1 = "RegOpenKeyEx %s  error:%d\r\n" ascii 
-        $msg2 = "RegDeleteValue Wow64 . %d\r\n" ascii 
-        $msg3 = "CreateService %s success! but Start Faile.. %d\r\n" ascii 
+        $msg1 = "RegOpenKeyEx %s  error:%d\x0D\x0A" ascii 
+        $msg2 = "RegDeleteValue Wow64 . %d\x0D\x0A" ascii 
+        $msg3 = "CreateService %s success! but Start Faile.. %d\x0D\x0A" ascii 
         $msg4 = "OutResFile to %s%s False!" ascii 
         $msg5 = "Can't GetNetSvcs Buffer!" ascii 
     condition: 
@@ -499,12 +499,12 @@ rule apt31_rawdoor_payload
         author = "HarfangLab" 
         context = "file" 
     strings: 
-        $name = "\r\n=================RawDoor %g================\r\n" ascii 
+        $name = "\x0D\x0A=================RawDoor %g================\x0D\x0A" ascii 
         $key = /SOFTWARE\\Clients\\Netra(u|w)/ ascii 
         $cmd1 = "Shell <powershell.exe path>" ascii 
         $cmd2 = "Selfcmd <self cmd string>" ascii 
         $cmd3 = "Wsrun <process name>" ascii 
-        $cmd4 = "ping 127.0.0.1 > nul\r\n" 
+        $cmd4 = "ping 127.0.0.1 > nul\x0D\x0A" 
         $cmd5 = "/c netsh advfirewall firewall add rule name=" ascii 
         $msg1 = "Allocate pSd memory to failed!" ascii 
         $msg2 = "Allocate SID or ACL to failed!" ascii 
