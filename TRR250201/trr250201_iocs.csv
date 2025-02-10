@@ -1,0 +1,16 @@
+type,value,comment
+sha-256,9f97997581f513166aae47b3664ca23c4f4ea90c24916874ff82891e2cd6e01e,NHAS reverse_shell (UPX-packed) using known C2
+sha-256,61928ff36c5d8983853ec2f411860b97231729f047527434d3b2db8bf0b42d25,NHAS reverse_shell (UPX-packed) using known C2
+sha-256,4c86e8c21451074a52cc8d60a262c683aaf4cb6b2634fea8efdd866ea2dbd3aa,NHAS reverse_shell (UPX-packed) using known C2
+sha-256,074739c7ccdee5baef649b7f7cb53668109be8f7e016294b66a5d1469803e42b,NHAS reverse_shell (UPX-packed) using known C2
+sha-256,7798b45ffc488356f7253805dc9c8d2210552bee39db9082f772185430360574,NHAS reverse_shell (UPX-packed) using known C2
+sha-256,cae96b72244855a3d98a42bb3f65daab1cd06e9be638553e2ebf1f8a66b5cc8a,NHAS reverse_shell (corrupted) using known C2
+sha-256,18556a794f5d47f93d375e257fa94b9fb1088f3021cf79cc955eb4c1813a95da,Likely associated (medium to high confidence) NHAS reverse_shell (not packed)
+sha-256,00109666ef878c6d61f1882bcf66e3c9ed60943ba8bc77b66de00f594174e3bb,Possibly associated (low confidence) NHAS reverse_shell (UPX-packed)
+domain,vip8025[.]mom,Pointer to likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-06 to 2024-07)
+domain,vip8806[.]mom,Likely associated C2 server domain (2024-05)
+hostname,test.vip8025[.]mom,Pointer to likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-06)
+hostname,www.vip8025[.]mom,NHAS reverse_ssh C2 (2024-09, pointing to 195.133.52[.]87)
+ip,195.133.52[.]87,Stager and reverse_ssh C2 (2024-07 to 2024-10)
+ip,156.251.172[.]80,Likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-05 to 2024-07)
+ip,8.218.239[.]22,Possibly associated (low confidence) NHAS reverse_shell C2 (2024-09)

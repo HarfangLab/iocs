@@ -251,6 +251,65 @@ rule anti_emulation_defender {
         and 1 of ($s_*)
         and not 1 of ($filter*)
 }
+rule nhas_reverse_shell_unpacked_large
+{
+    meta:
+        description = "Matches unpacked NHAS reverse_ssh file samples"
+        references = "TRR250201"
+        hash = "18556a794f5d47f93d375e257fa94b9fb1088f3021cf79cc955eb4c1813a95da"
+        date = "2024-09-24"
+        author = "HarfangLab"
+        context = "file"
+    strings:
+        $s1 = "/NHAS/reverse_ssh/cmd/client" ascii
+        $s2 = "/handlers.runCommandWithPty" ascii
+        $s3 = "/connection.RegisterChannelCallbacks" ascii
+        $s4 = "/internal.RemoteForwardRequest" ascii
+        $s5 = "github.com/pkg/sftp" ascii
+        $s6 = "github.com/creack/pty" ascii
+        $s7 = "main.Fork" ascii fullword
+    condition:
+        filesize > 2MB and filesize < 30MB
+        and ((uint32be(0) == 0x7F454C46) or (uint16be(0)==0x4D5A))
+        and (5 of them)
+}
+rule nhas_reverse_shell_pe_inmem_large
+{
+    meta:
+        description = "Matches packed NHAS reverse_ssh PE samples in-memory during execution"
+        references = "TRR250201"
+        hash = "7798b45ffc488356f7253805dc9c8d2210552bee39db9082f772185430360574"
+        date = "2024-09-24"
+        author = "HarfangLab"
+        context = "memory"
+    strings:
+        $s1 = "\\rprichard\\proj\\winpty\\src\\agent\\" ascii
+        $s2 = "\\Users\\mail\\source\\winpty\\src\\" ascii
+        $s3 = "Successfully connnected" ascii
+        $s4 = "*main.decFunc" ascii fullword
+        $s6 = "keepalive-rssh@golang.org" ascii fullword
+        $s7 = ".(*sshFxpSetstatPacket)." ascii
+    condition:
+        (all of them)
+}
+rule nhas_reverse_shell_elf_inmem_large
+{
+    meta:
+        description = "Matches packed NHAS reverse_ssh ELF samples in-memory during execution"
+        references = "TRR250201"
+        hash = "9f97997581f513166aae47b3664ca23c4f4ea90c24916874ff82891e2cd6e01e"
+        date = "2024-09-24"
+        author = "HarfangLab"
+        context = "memory"
+    strings:
+        $s1 = "/NHAS/reverse_ssh/cmd/client" ascii
+        $s2 = "/handlers.runCommandWithPty" ascii
+        $s3 = "/connection.RegisterChannelCallbacks" ascii
+        $s4 = "/internal.RemoteForwardRequest" ascii
+        $s7 = "main.Fork" ascii fullword
+    condition:
+        (all of them)
+}
 rule charmingkitten_cyclops
 {
     meta:
@@ -467,53 +526,6 @@ rule MuddyWater_AteraAgent_Operators {
         and any of ($s*)
         and any of ($cert*)
 }
-rule apt31_rawdoor_dropper 
-{ 
-    meta: 
-        description = "Matches the RawDoor dropper" 
-        references = "TRR240401" 
-        hash = "c3056e39f894ff73bba528faac04a1fc86deeec57641ad882000d7d40e5874be" 
-        date = "2024-04-12" 
-        author = "HarfangLab" 
-        context = "file" 
-    strings: 
-        $service_target = "%SystemRoot%\\system32\\svchost.exe -k netsvcs" ascii 
-        $service_dispname = "Microsoft .NET Framework NGEN" ascii 
-        $drop_name = "~DF313.msi" ascii 
-        $msg1 = "RegOpenKeyEx %s  error:%d\x0D\x0A" ascii 
-        $msg2 = "RegDeleteValue Wow64 . %d\x0D\x0A" ascii 
-        $msg3 = "CreateService %s success! but Start Faile.. %d\x0D\x0A" ascii 
-        $msg4 = "OutResFile to %s%s False!" ascii 
-        $msg5 = "Can't GetNetSvcs Buffer!" ascii 
-    condition: 
-        uint16(0) == 0x5A4D and filesize > 350KB and filesize < 600KB and 
-        (($service_target and $service_dispname and $drop_name) or 3 of ($msg*)) 
-}
-rule apt31_rawdoor_payload 
-{ 
-    meta: 
-        description = "Matches the RawDoor payload" 
-        references = "TRR240401" 
-        hash = "fade96ec359474962f2167744ca8c55ab4e6d0700faa142b3d95ec3f4765023b" 
-        date = "2024-04-12" 
-        author = "HarfangLab" 
-        context = "file" 
-    strings: 
-        $name = "\x0D\x0A=================RawDoor %g================\x0D\x0A" ascii 
-        $key = /SOFTWARE\\Clients\\Netra(u|w)/ ascii 
-        $cmd1 = "Shell <powershell.exe path>" ascii 
-        $cmd2 = "Selfcmd <self cmd string>" ascii 
-        $cmd3 = "Wsrun <process name>" ascii 
-        $cmd4 = "ping 127.0.0.1 > nul\x0D\x0A" 
-        $cmd5 = "/c netsh advfirewall firewall add rule name=" ascii 
-        $msg1 = "Allocate pSd memory to failed!" ascii 
-        $msg2 = "Allocate SID or ACL to failed!" ascii 
-        $msg3 = "OpenSCManager error:%d" ascii 
-        $msg4 = "%u:TCP:*:Enabled:%u" ascii 
-    condition: 
-        uint16(0) == 0x5A4D and filesize < 200KB and 
-        (($name and $key) or (3 of ($cmd*) and 3 of ($msg*))) 
-}
 rule PackXOR
 {
     meta:
@@ -653,4 +665,51 @@ rule PackXOR
         and uint32(uint32(0x3C)) == 0x00004550
         and filesize < 20MB
         and 2 of ($s_packer*)
+}
+rule apt31_rawdoor_dropper 
+{ 
+    meta: 
+        description = "Matches the RawDoor dropper" 
+        references = "TRR240401" 
+        hash = "c3056e39f894ff73bba528faac04a1fc86deeec57641ad882000d7d40e5874be" 
+        date = "2024-04-12" 
+        author = "HarfangLab" 
+        context = "file" 
+    strings: 
+        $service_target = "%SystemRoot%\\system32\\svchost.exe -k netsvcs" ascii 
+        $service_dispname = "Microsoft .NET Framework NGEN" ascii 
+        $drop_name = "~DF313.msi" ascii 
+        $msg1 = "RegOpenKeyEx %s  error:%d\x0D\x0A" ascii 
+        $msg2 = "RegDeleteValue Wow64 . %d\x0D\x0A" ascii 
+        $msg3 = "CreateService %s success! but Start Faile.. %d\x0D\x0A" ascii 
+        $msg4 = "OutResFile to %s%s False!" ascii 
+        $msg5 = "Can't GetNetSvcs Buffer!" ascii 
+    condition: 
+        uint16(0) == 0x5A4D and filesize > 350KB and filesize < 600KB and 
+        (($service_target and $service_dispname and $drop_name) or 3 of ($msg*)) 
+}
+rule apt31_rawdoor_payload 
+{ 
+    meta: 
+        description = "Matches the RawDoor payload" 
+        references = "TRR240401" 
+        hash = "fade96ec359474962f2167744ca8c55ab4e6d0700faa142b3d95ec3f4765023b" 
+        date = "2024-04-12" 
+        author = "HarfangLab" 
+        context = "file" 
+    strings: 
+        $name = "\x0D\x0A=================RawDoor %g================\x0D\x0A" ascii 
+        $key = /SOFTWARE\\Clients\\Netra(u|w)/ ascii 
+        $cmd1 = "Shell <powershell.exe path>" ascii 
+        $cmd2 = "Selfcmd <self cmd string>" ascii 
+        $cmd3 = "Wsrun <process name>" ascii 
+        $cmd4 = "ping 127.0.0.1 > nul\x0D\x0A" 
+        $cmd5 = "/c netsh advfirewall firewall add rule name=" ascii 
+        $msg1 = "Allocate pSd memory to failed!" ascii 
+        $msg2 = "Allocate SID or ACL to failed!" ascii 
+        $msg3 = "OpenSCManager error:%d" ascii 
+        $msg4 = "%u:TCP:*:Enabled:%u" ascii 
+    condition: 
+        uint16(0) == 0x5A4D and filesize < 200KB and 
+        (($name and $key) or (3 of ($cmd*) and 3 of ($msg*))) 
 }
