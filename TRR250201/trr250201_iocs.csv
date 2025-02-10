@@ -10,7 +10,7 @@ sha-256,00109666ef878c6d61f1882bcf66e3c9ed60943ba8bc77b66de00f594174e3bb,Possibl
 domain,vip8025[.]mom,Pointer to likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-06 to 2024-07)
 domain,vip8806[.]mom,Likely associated C2 server domain (2024-05)
 hostname,test.vip8025[.]mom,Pointer to likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-06)
-hostname,www.vip8025[.]mom,NHAS reverse_ssh C2 (2024-09, pointing to 195.133.52[.]87)
+hostname,www.vip8025[.]mom,"NHAS reverse_ssh C2 (2024-09, pointing to 195.133.52[.]87)"
 ip,195.133.52[.]87,Stager and reverse_ssh C2 (2024-07 to 2024-10)
 ip,156.251.172[.]80,Likely associated (medium to high confidence) NHAS reverse_shell C2 (2024-05 to 2024-07)
 ip,8.218.239[.]22,Possibly associated (low confidence) NHAS reverse_shell C2 (2024-09)
