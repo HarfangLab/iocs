@@ -1,0 +1,100 @@
+# Hashes (SHA-256)
+0cec5ca5d2fe9616a275b54ca37f45248e1ed6e15f627d6bffb566ffd6295208|PteroLNK VBScript, ~.drv
+913e2001d1b13711728ff63fa44b720e5a6d464a68be2e3e72a091bd6c245de1|PteroLNK VBScript, ~.drv
+d0b6e053a967db89cd6492beb5202be67b7fd7be8f7eb1d60905310a4bfb9ea8|PteroLNK VBScript, ~.drv
+1bd6df231f94053b33ae6becb9e49894236a123b82e62eaedf566e8d2572e018|PteroLNK VBScript, ~.drv
+1c32b8ee9442e7e6d0e2e61fb15d3beea9db2fe77d2f70b38ce05eab7c6933f6|PteroLNK VBScript, ~.drv
+5062ca28db713d36e2523f0a041ccde2ea563e3d20c436197e8d33ec3025f3be|PteroLNK VBScript, ~.drv
+28166ea98915ce5c07108bae1ae116d7eeab3fceb64d9564dd2d483cdc2c5e1c|PteroLNK VBScript, ~.drv
+d5538812b9a41b90fb9e7d83f2970f947b1e92cb68085e6d896b97ce8ebff705|PteroLNK VBScript, ~.drv
+582075b7d84fd7233359ede009ae5ccd9c05d06087e4eebf2fcde86286a67938|PteroLNK VBScript, ~.drv
+ab7b9e5025b9095a4fcf76dfa5becc12bd219de84bd2a300371cc303af4463f4|PteroLNK VBScript, ~.drv
+
+# File paths and Filenames
+%PUBLIC%\NTUSER.DAT.TMContainer00000000000000000001.regtrans-ms|PteroLNK downloader payload
+%PUBLIC%\NTUSER.DAT.TMContainer00000000000000000002.regtrans-ms|PteroLNK LNK dropeer payload
+%PUBLIC%\NTUSER.DAT.TMContainer|PteroLNK VBScript
+%APPDATA%\~.drv|PteroLNK VBScript
+
+# Scheduled tasks:
+\Windows\DeviceDirectoryClient\RegisterUserDevice|PteroLNK downloader payload
+\Windows\DeviceDirectoryClient\RegisterDeviceConnectedToNetwork|PteroLNK LNK dropper payload
+
+# Registry keys:
+HKEY_CURRENT_USER\Console\WindowsUpdates|C2 registry key
+HKEY_CURRENT_USER\Console\WindowsResponby|C2 registry key
+HKEY_CURRENT_USER\Console\WindowsDetect|C2 registry key
+
+# Domains
+tienes[.]ru|Gamaredon C2
+mahombres[.]ru|Gamaredon C2
+kimiga[.]ru|Gamaredon C2
+areyouall[.]ru|Gamaredon C2
+nandayo[.]ru|Gamaredon C2
+
+# Hostnames
+des-cinema-democrat-san.trycloudflare[.]com|Cloudflare quick tunnel
+satin-adams-writings-idol.trycloudflare[.]com|Cloudflare quick tunnel
+such-bad-magnet-dealer.trycloudflare[.]com|Cloudflare quick tunnel
+chaos-forces-bears-sent.trycloudflare[.]com|Cloudflare quick tunnel
+cups-technologies-knock-posts.trycloudflare[.]com|Cloudflare quick tunnel
+cables-encounter-chem-stranger.trycloudflare[.]com|Cloudflare quick tunnel
+asset-advised-jane-disc.trycloudflare[.]com|Cloudflare quick tunnel
+recreational-bosnia-granny-interventions.trycloudflare[.]com|Cloudflare quick tunnel
+governmental-rocket-hourly-blair.trycloudflare[.]com|Cloudflare quick tunnel
+silence-modems-france-fact.trycloudflare[.]com|Cloudflare quick tunnel
+extend-terrorism-nowhere-two.trycloudflare[.]com|Cloudflare quick tunnel
+taking-hl-kerry-pet.trycloudflare[.]com|Cloudflare quick tunnel
+horizon-fee-calendar-seek.trycloudflare[.]com|Cloudflare quick tunnel
+rows-slideshow-toll-dsl.trycloudflare[.]com|Cloudflare quick tunnel
+blowing-traveling-looks-appropriations.trycloudflare[.]com|Cloudflare quick tunnel
+making-toys-sn-kijiji.trycloudflare[.]com|Cloudflare quick tunnel
+checklist-digital-proved-labels.trycloudflare[.]com|Cloudflare quick tunnel
+im-trend-naturally-administrator.trycloudflare[.]com|Cloudflare quick tunnel
+dressed-emissions-councils-storage.trycloudflare[.]com|Cloudflare quick tunnel
+sand-northeast-consumers-sells.trycloudflare[.]com|Cloudflare quick tunnel
+architect-reverse-poster-failed.trycloudflare[.]com|Cloudflare quick tunnel
+mailed-this-chemical-thermal.trycloudflare[.]com|Cloudflare quick tunnel
+adjustable-za-creativity-copper.trycloudflare[.]com|Cloudflare quick tunnel
+amenities-minus-judges-clearly.trycloudflare[.]com|Cloudflare quick tunnel
+zambia-relate-highlights-tasks.trycloudflare[.]com|Cloudflare quick tunnel
+adventures-worked-exposure-maui.trycloudflare[.]com|Cloudflare quick tunnel
+asks-ribbon-nearest-traveler.trycloudflare[.]com|Cloudflare quick tunnel
+relax-spas-miss-feeling.trycloudflare[.]com|Cloudflare quick tunnel
+sized-professionals-expertise-reveals.trycloudflare[.]com|Cloudflare quick tunnel
+sat-mapping-metadata-instrumentation.trycloudflare[.]com|Cloudflare quick tunnel
+dimensions-incorporated-citysearch-quotes.trycloudflare[.]com|Cloudflare quick tunnel
+funky-honduras-drives-statutory.trycloudflare[.]com|Cloudflare quick tunnel
+outputs-sam-come-bosnia.trycloudflare[.]com|Cloudflare quick tunnel
+efficiently-noble-pubs-armed.trycloudflare[.]com|Cloudflare quick tunnel
+place-experiencing-teen-kitty.trycloudflare[.]com|Cloudflare quick tunnel
+cat-pop-injuries-gallery.trycloudflare[.]com|Cloudflare quick tunnel
+compact-egypt-meal-imagination.trycloudflare[.]com|Cloudflare quick tunnel
+stockholm-align-closed-far.trycloudflare[.]com|Cloudflare quick tunnel
+cope-senator-european-texas.trycloudflare[.]com|Cloudflare quick tunnel
+playstation-look-became-circles.trycloudflare[.]com|Cloudflare quick tunnel
+fixtures-bracelet-anatomy-jon.trycloudflare[.]com|Cloudflare quick tunnel
+engineering-moreover-packages-shareholders.trycloudflare[.]com|Cloudflare quick tunnel
+applicant-approx-vatican-senators.trycloudflare[.]com|Cloudflare quick tunnel
+wallpaper-duplicate-agents-exports.trycloudflare[.]com|Cloudflare quick tunnel
+advisors-commission-burn-valuation.trycloudflare[.]com|Cloudflare quick tunnel
+wto-ls-stocks-pie.trycloudflare[.]com|Cloudflare quick tunnel
+forces-details-round-gates.trycloudflare[.]com|Cloudflare quick tunnel
+spectrum-maldives-literally-garcia.trycloudflare[.]com|Cloudflare quick tunnel
+performances-look-humidity-pie.trycloudflare[.]com|Cloudflare quick tunnel
+unlike-processes-saskatchewan-prepared.trycloudflare[.]com|Cloudflare quick tunnel
+
+# URLs
+hxxps://telegra[.]ph/Vizit-12-28|Dead drop resolver
+hxxps://telegra[.]ph/Post-12-20-7|Dead drop resolver (inactive)
+hxxps://graph[.]org/LifeNews-02-20|Dead drop resolver
+hxxps://telegra[.]ph/VectorsWar-03-06|Dead drop resolver
+hxxps://telegra[.]ph/mark-01-20-5|Dead drop resolver
+hxxps://telegra[.]ph/Leons-01-13|Dead drop resolver (inactive)
+hxxps://telegra[.]ph/Kasiopeya-01-09|Dead drop resolver (inactive)
+hxxps://teletype[.]in/@dc1/p9G48lhQVjw |Dead drop resolver (inactive)
+hxxps://teletype[.]in/@din3/VByOMkbbyIt|Dead drop resolver
+hxxps://teletype[.]in/@mew31/y4JyD2Rpb41|Dead drop resolver
+
+# Possibly associated URLs
+hxxps://telegra[.]ph/Simphoniya-03-07|Possibly an inactive dead drop resolver
