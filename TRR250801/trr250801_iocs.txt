@@ -1,0 +1,78 @@
+# Hashes (SHA-256)
+5df1e1d67b92e2bba8641561af9967e3a54ec73600283c66b09c8165ddcb7de9|Archive, campaign targeting Ukraine, July 2025
+699c50014cdbe919855c25eb35b15dfc8e64f73945187da41d985a9d7be31a71|Archive, campaign targeting Ukraine, July 2025
+26ea842c4259c90349a1f4db92efa89ac4429a5ff380e7f72574426cfd647f1a|Archive, campaign targeting Ukraine, June 2025
+6e562afa3193c2ca5d2982e04de78cf83faa203534a6098ab5f08df94bbeb944|Archive, campaign targeting Poland, May 2025
+3fff6c8a8ef3f153ebbe6d469a0d970953358a25bb9b4955a2592626f011cbd6|Archive, campaign targeting Poland, May 2025
+730c1a02bb31d548d91ba23fce870b1dc53c4802ea4fcb0d293f96de670d74af|Archive, campaign targeting Poland, April 2025
+57e0280dc5b769186588cc3a27a8a9be6f6e169551bbef39f95127e9326627f2|Archive, campaign targeting Poland, April 2025
+f6fec3722a8c98c29c5de10969b8f70962dbb47ba53dcbcd4a3bbc63996d258d|XLS spreadsheet, campaign targeting Ukraine, July 2025
+deaa3f807de097c3bfff37a41e97af5091b2df0e3a6d01a11a206732f9c6e49c|XLS spreadsheet, campaign targeting Ukraine, July 2025
+aac430127c438224ec61a6c02ea59eb3308eb54297daac985a7b26a75485e55f|XLS spreadsheet, campaign targeting Ukraine, June 2025
+06380c593d122fc4987e9d4559a9573a74803455809e89dd04d476870a427cbe|XLS spreadsheet, campaign targeting Poland, May 2025
+082877e6f8b28f6cf96d3498067b0c404351847444ebc9b886054f96d85d55d4|XLS spreadsheet, campaign targeting Poland, May 2025
+082903a8bec2b0ef7c7df3e75871e70c996edcca70802d100c7f68414811c804|XLS spreadsheet, campaign targeting Poland, April 2025
+69636ddc0b263c93f10b00000c230434febbd49ecdddf5af6448449ea3a85175|XLS spreadsheet, campaign targeting Poland, April 2025
+a2a2f0281eed6ec758130d2f2b2b5d4f578ac90605f7e16a07428316c9f6424e|DLL, campaign targeting Ukraine, July 2025
+8a057d88a391a89489697634580e43dbb14ef8ab1720cb9971acc418b1a43564|DLL, campaign targeting Ukraine, July 2025
+707a24070bd99ba545a4b8bab6a056500763a1ce7289305654eaa3132c7cbd36|DLL, campaign targeting Ukraine, June 2025
+5fa19aa32776b6ab45a99a851746fbe189f7a668daf82f3965225c1a2f8b9d36|DLL, campaign targeting Poland, May 2025
+3b5980c758bd61abaa4422692620104a81eefbf151361a1d8afe8e89bf38579d|DLL, campaign targeting Poland, May 2025
+c7e44bba26c9a57d8d0fa64a140d58f89d42fd95638b8e09bc0d2020424b640e|DLL, campaign targeting Poland, May 2025
+7c77d1ba7046a4b47aec8ec0f2a5f55c73073a026793ca986af22bbf38dc948c|DLL, campaign targeting Poland, April 2025
+559ee2fad8d16ecaa7be398022aa7aa1adbd8f8f882a34d934be9f90f6dcb90b|DLL, campaign targeting Poland, April 2025
+
+# File paths
+%TEMP%\DefenderProtectionScope.log|C# downloader, campaign targeting Ukraine, June 2025
+%APPDATA%\Microsoft\System\ProtectedCertSystem.dll|Unknown next stage, campaign targeting Ukraine, June 2025
+%LOCALAPPDATA%\Serv\0x00bac729fe.log|C# downloader, campaign targeting Ukraine, July 2025
+%APPDATA%\Microsoft\Windows\Protection overview.lnk|LNK file used to load the C# downloader, campaign targeting Ukraine, July 2025 
+%APPDATA%\Local\Temp\sdw9gobh0n|Microsoft Cabinet file containing the C# downloader, campaign targeting Ukraine, July 2025 
+%APPDATA%\Microsoft\Windows\Protection overview past.lnk|LNK file used to extract the C# downloader, campaign targeting Ukraine, July 2025 
+%LOCALAPPDATA%\Logs\sdw9gobh0n.log|C# downloader, campaign targeting Ukraine, July 2025
+%APPDATA%\Microsoft\Windows\Protection overview.lnk|LNK file used to load the C# downloader, campaign targeting Ukraine, July 2025
+%LOCALAPPDATA%\SDXHelp\SDXHelp.dll|C++ downloader, campaign targeting Poland, May 2025
+%LOCALAPPDATA%\Runtime\RuntimeBroker.dll|Unknown next stage, campaign targeting Poland, May 2025
+%APPDATA%\Microsoft\Windows\Protection overview.lnk|LNK file used to load the C++ dropper, campaign targeting Poland, May 2025
+%LOCALAPPDATA\MSDE\mrasp86.dll|C++ dropper, campaign targeting Poland, May 2025
+%APPDATA%\DiagnosticComponents\DiagnosticComponents.dll|C++ loader (Cobalt Strike beacon), campaign targeting Poland, May 2025
+%PROGRAMDATA%\OfficeRuntimeBroker.xlam|Microsoft Cabinet file containing the C# downloader, campaign targeting Poland, April 2025
+%PROGRAMDATA%\OfficeRuntimeBroker.lnk|LNK file used to extract and to load the C# downloader, campaign targeting Poland, April 2025
+%PROGRAMDATA%\~OfficeRuntimeBroker.dat|C# downloader, campaign targeting Poland, April 2025
+C:\ProgramData\ssh\ssh.pif.pif.pif|Next stage, campaign targeting Poland, April 2025
+%PROGRAMDATA%\~DF20BC61C6277A354A.xlam|Microsoft Cabinet file containing the C# downloader, campaign targeting Poland, April 2025
+%PROGRAMDATA%\~DF20BC61C6277A354A.lnk|LNK file used to extract and to load the C# downloader, campaign targeting Poland, April 2025
+%PROGRAMDATA%\~DF20BC61C6277A354A.dat|C# downloader, campaign targeting Poland, April 2025
+C:\ProgramData\WRDSPT\wrdspt.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif.pif|Next stage, campaign targeting Poland, April 2025
+
+# Registry keys
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SytemProtectionService|DefenderProtectionScope.log, downloader persistence, campaign targeting Ukraine, June 2025
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\MicrosoftDefender|Next stage implant (set by DefenderProtectionScope.log), campaign targeting Ukraine, June 2025
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SytemProtectService|0x00bac729fe.log, downloader persistence, campaign targeting Ukraine, July 2025
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Audio Driver|sdw9gobh0n.log, downloader persistence, campaign targeting Ukraine, July 2025
+
+# Scheduled tasks names
+\UpdateSDX|SDXHelp.dll, downloader persistence, campaign targeting Poland, May 2025
+\ExpDiagnosticDataSettings|DiagnosticComponents.dll,next stage persistence, campaign targeting Poland, May 2025
+
+# Domains
+sweetgeorgiayarns[.]online|C2 domain, campaign targeting Ukraine, July 2025
+kitchengardenseeds[.]icu|C2 domain, campaign targeting Ukraine, July 2025
+punandjokes[.]icu|C2 domain, campaign targeting Ukraine, June 2025
+taskandpurpose[.]icu|C2 domain, campaign targeting Poland, May 2025
+medpagetoday[.]icu|C2 domain, campaign targeting Poland, May 2025
+pesthacks[.]icu|C2 domain, campaign targeting Poland, April 2025
+
+# Possibly related domains
+curseforge[.]icu|Low confidence
+
+# URLs
+hxxps://sweetgeorgiayarns[.]online/wp-content/uploads/2025/04/06102226/Kims-hand-cards.jpg|C2 URL, campaign targeting Ukraine, July 2025
+hxxps://kitchengardenseeds[.]icu/seed-index/flowers/habitat-gardens.jpg|C2 URL, campaign targeting Ukraine, July 2025
+hxxps://punandjokes[.]icu/cannabis-jokes.jpg|C2 URL, campaign targeting Ukraine, June 2025
+hxxps://taskandpurpose[.]icu/hews/coast-guard-0reg0n-c0ncrete.jpg|C2 URL, campaign targeting Poland, May 2025
+hxxps://medpagetoday[.]icu/nicheediting/trends|C2 URL, campaign targeting Poland, May 2025
+hxxps://hooks.slack[.]com/services/T08NWSF1L78/B08P91RQ1EW/ZQzZ7IvlT81VpQijneCR0iYa|C2 URL (Slack webhook), campaign targeting Poland, April 2025
+hxxps://files.slack[.]com/files-pri/T08NWSF1L78-F08NQETU5M5/owjomlhoms.jpg|C2 URL (Slack), campaign targeting Poland, April 2025
+hxxps://hooks.slack[.]com/services/T08N1F1F64W/B08N1FMAN94/2QGu5K7wE3k6cVQ448Qa9n4W|C2 URL (Slack webhook), campaign targeting Poland, April 2025
+hxxps://files.slack[.]com/files-pri/T08N1F1F64W-F08P2HJNU2F/ocnijrarcjvzenxyqhztf.jpg|C2 URL (Slack), campaign targeting Poland, April 2025
