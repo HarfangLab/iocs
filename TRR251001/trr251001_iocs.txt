@@ -1,0 +1,64 @@
+# Hashes (SHA-256)
+82b7f077021df9dc2cf1db802ed48e0dec8f6fa39a34e3f2ade2f0b63a1b5788|IIS HijackServer C++ module 1.6.1, x86.dll and scripts.dll
+c1ca053e3c346513bac332b5740848ed9c496895201abc734f2de131ec1b9fb2|IIS HijackServer C++ module 1.6.1, x64.dll and caches.dll
+c348996e27fc14e3dce8a2a476d22e52c6b97bf24dd9ed165890caf88154edd2|IIS HijackServer C++ module 1.6.0
+bd2de6ca6c561cec1c1c525e7853f6f73bf6f2406198cd104ecb2ad00859f7d3|IIS HijackServer C++ module 1.6.0
+7a10207a430234b448f692a534cea16d400858c5fdda014c786fbf97127dce88|IIS HijackServer C++ module 1.4.0
+915441b7d7ddb7d885ecfe75b11eed512079b49875fc288cd65b023ce1e05964|IIS HijackServer .NET module 1.6.1
+665234a6627269ba0b3816a6a29ede4fc72d36f34978f5ba1410e63d968d3d62|PHP downloader for Apache HijackServer PHP module
+e3bfd9aca49726556f6279aad2ab54ca9c1f0df22bcad27aa7e1ba3234f8eaff|Apache HijackServer PHP module 1.2.5
+e107bf25abc1cff515b816a5d75530ed4d351fa889078e547d7381b475fe2850|Apache HijackServer PHP module 1.2.51
+7260f09e95353781f2bebf722a2f83c500145c17cf145d7bda0e4f83aafd4d20|GUI deployment tool, HijackDriverManager.exe
+8ed76396e11d1c268b6a80def8b57abacf4ea1ac059838bd858c8587c26b849c|Post-installation script, lock.bat
+913431f1d36ee843886bb052bfc89c0e5db903c673b5e6894c49aabc19f1e2fc|Usermode command-line tool for rootkit, WingtbCLI.exe
+4e24349b61c5af60a5e7f543c86963087ca6d6078378f83c8fe55b36dc6331f4|Usermode command-line tool for rootkit, WinkbjCLI.exe
+5113d2da6cd9f4a4a9123a3547b01250659dcc349c36159ee11b93805ce51105|Usermode command-line tool for rootkit, WinszBuCLI.exe
+e6a9bf90accf17355a1f779d480a38838b2bbb2877cde095c7c139e041c50d71|IIS modules installation script, install.bat
+ed2c4429cf27e19aa6881d86bc5b42c21470525564fc53be688b9b26c83db766|IIS modules installation script, hello.bat
+4c6703c7435759dbe0c889474a5fae4ca86e491ca45887a0dae3fcd4649e79c5|IIS modules installation script, install.bat, install_bak.bat and install_bak - \u00a9\u2592\u2592\u00a5.txt
+0d07b8485145e0ea6789570b9ab476d8e1604110a9c45c9c753ef7bc5edfd539|Document listing IIS modules installation commands, heoo.docx
+a96e1643dedd472e5712282904110ee948592fab722dc87d8f1e7658d3d8449d|IIS modules removal script, uninstall.bat
+f9dd0b57a5c133ca0c4cab3cca1ac8debdc4a798b452167a1e5af78653af00c1|Customized Hidden rootkit, Wingtb.sys
+88fd3c428493d5f7d47a468df985c5010c02d71c647ff5474214a8f03d213268|Customized Hidden rootkit, Wingtb.sys
+af05f1b780a14583887857cb87d697d985ce172abb1d57e4108cac5e5aaca136|Customized Hidden rootkit, Wingtb.sys
+83620389548516c74b40f9067ca20b7cc641a243c419d76ab2da87f8fd38e81c|Customized Hidden rootkit, Winkbj.sys.0xc8046edbd590.0xf803cde00000.dmp
+a8498295ec3557f1bf680a432acf415abf108405063f44d78974a4f27c27dd20|Driver setup information file for rootkit, Hidden.inf
+fc16cb7949b0eb8f3ffa329bef753ee21440638c1ec0218c1e815ba49d7646bb|Driver setup information file for rootkit, Hidden.inf
+82a1f8abffbd469e231eec5e0ac7e01eb6a83cbeb7e09eb8629bc5cc8ef12899|Driver catalog file for rootkit, Wingtb.cat
+13ebf6422fe07392c886c960fafb90ef1ba3561f00eedb121a136e7f6c29c9ee|Driver catalog file for rootkit, Wingtb.cat
+
+# Possibly related hashes (SHA-256)
+64d0a4703ec976b0e0db4e193b9ccdf4ef6f34d24c32274579ee028a67bfa3a9|Variant of IIS HijackServer C++ module
+
+# File paths
+C:\Windows\System32\inetsrv\scripts.dll|IIS HijackServer C++ module
+C:\Windows\SysWOW64\inetsrv\scripts.dll|IIS HijackServer C++ module
+C:\Windows\System32\inetsrv\caches.dll|IIS HijackServer C++ module
+C:\Windows\SysWOW64\inetsrv\caches.dll|IIS HijackServer C++ module
+C:\Windows\System32\drivers\Wingtb.sys|Customized Hidden rootkit
+
+# Hostnames
+c.cseo99[.]com|HijackServer configuration stager
+f.fseo99[.]com|HijackServer files stager
+api.aseo99[.]com|HijackServer SEO telemetry endpoint
+c.cseo8[.]com|HijackServer configuration stager
+f.zseo8[.]com|HijackServer files stager
+api.xseo8[.]com|HijackServer reporting endpoint
+mlxya.oss-accelerate.aliyuncs[.]com|HijackServer JavaScript distribution stager (on legitimate Alibaba CDN)
+
+# Possibly related domains
+gov[.]land|Staging server in older variant of IIS HijackServer C++ module (early and mid-2024)
+cn[.]lol|Staging server in older variant of IIS HijackServer C++ module (early and mid-2024)
+org[.]cfd|Staging server in older variant of IIS HijackServer C++ module (early and mid-2024)
+lseo99[.]com|Likely HijackServer infrastructure (2025)
+jseo99[.]com|Likely HijackServer infrastructure (2025)
+wseo99[.]com|Likely HijackServer infrastructure (2025)
+wseo88[.]com|Likely HijackServer infrastructure (2024)
+fseo88[.]com|Likely HijackServer infrastructure (2024)
+cseo88[.]com|Likely HijackServer infrastructure (2024)
+aseo88[.]com|Likely HijackServer infrastructure (2024)
+wseo8[.]com|Likely HijackServer infrastructure (2024)
+
+# URLs
+hxxps://f.zseo8[.]com/uploads/2024-10-24/48c3a008cd9ccfa5fd3bdb69ed6d12ce.txt|Apache HijackServer PHP module
+hxxps://f.zseo8[.]com/uploads/2024-10-24/99749da89ec4d1e3f3179f119f2a955b.txt|Apache HijackServer PHP module
