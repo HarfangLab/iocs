@@ -1,0 +1,463 @@
+#### Hashes (SHA-256)
+ecb9609989dce48f78d4fa83abf3dae5592dd4e332d27f005e652c4f82d0b3c2|Malicious RAR archive
+79953d26671e6ae3b8d7e5d0efe63f63f6b616b50e7d3dcbf50b16fc600aef55|Malicious RAR archive
+48092a501ec64564e2bf2e3c79c1f96c490231abcae6ef02499570fa41d63ab2|Malicious RAR archive
+4cb1c692a2f575ca0b180eb962d04276f1e8ef43040238050e28c2f5ec95f3fb|Malicious RAR archive
+cad8a6efef60c5c8c530757a4e0776c8baa8f9bfc05536ab730d6b57567f6548|Malicious RAR archive
+ff858d25804ff6f92fedcac9360692fcff418efa3e17f863f3d48e3823036d4f|Malicious RAR archive
+8cf414ccbc6c02d12c41151f6806a5b57d0fb90a34c6e02f037ac9afd5f4b7d4|Malicious RAR archive
+57a92c3bce362ab151a6b271d5213081a13471c8c02e05640e8f50a2f13767f3|Malicious RAR archive
+7d8fdb7f19dd21dc1503307214c64da9f5ea610c46bf4bf1050a2ea132acdba6|Malicious RAR archive
+a9eae5074d2877876bb22195ac8d0697faf6e82a06f266fc52b187002c41147e|Malicious RAR archive
+333c408909e2a3ed9d7606b25d6284680c9d0d3247053df0ddf424f759cada0a|Malicious RAR archive
+95e58b54b180d811698483480c37214fccc80cc142917729afe63b759ded3151|Malicious RAR archive
+e3e58e8adf018f7f9cf4d4dcb3830f833cd09a4a47c1ff8bcc0e079dbff082c8|Malicious RAR archive
+00b8e381046d4e024a97d0402c3fe29f9d7f5114b2a932003d3e089cfdf992c1|Malicious RAR archive
+75adb6fe6909ea003fbd12dd8f6bdbd202afafe4f97aeda05af0536b745d6095|Malicious RAR archive
+8cb81e8653e47fad28467ae44c010b2e57893f387ff9533677b687aa106c5db7|Malicious RAR archive
+1d633fb3f1de53fdbdb8248866f56c08fde16d43bdd0f1fa0f5d6d1afb47185a|Malicious RAR archive
+e590c17f6bc07290482ecd75c45c006af9ba1f5120c4bb3893302b41483eb537|Malicious RAR archive
+b810c2835a066c517496e79c08887b9b076ca65ce9c4d631f06966706e445b3b|Malicious RAR archive
+72650f1a2a44251e97aa9bd97d0ac42b64b322cd0cfe262ffd7d70386d661dd7|Malicious RAR archive
+5ede48b619959a593775a9c5fbc0dc7b2d9a86b9e0efbc4d4e53a48d97722ebc|Malicious RAR archive
+78c8adda88904353fc3a9c7535bf9ccce5146d09e3099cc5f1667365e379d501|Malicious RAR archive
+24604941c68ffbcdc6636c1ca38f8476c2fd9e6e04a288ffd300428aa4fe6593|Malicious RAR archive
+22c10dff8f6a867f9d56d513f45cd7a2b0c370751960fac8972e2306098b05c4|Malicious RAR archive
+74a3422cd2c9f38347b41dd6a8c68b52df1418f71183a0a53395381b0f0ad00e|Malicious RAR archive
+7a7ceb023a054ef1c506283d8e606577ab690d02cea62875f2f12b9c54c91c4d|Malicious RAR archive
+856584606f0bc5182d1e9d20e70c1d07f78355afc974217a128707c9e14fa6d7|Malicious RAR archive
+4778adcc90e9903f1d99c93ace28b55ce9546d1815c811ac9bba6d9e5b2bed6d|Malicious RAR archive
+f1d5793184760b944a3148b7dfa7d8123ba4af5889cd04c2d0003da1989b110d|Malicious RAR archive
+3c893696f7e78fe9973f9ea16b2980fc75fa7ae4d649c045ae1a7c5c72d221ba|Malicious RAR archive
+fe62f8e5fe567500b3ad7b4b0127bc6eb6eef767b60951ae6f6e8a73e26979bb|Malicious RAR archive
+df6891b60e88e6d61f79e36b210e98c0a09cf964ea5679629235793043e4e21d|Malicious RAR archive
+cbf8017a260a33b723b76ab8e14888cddd0da9d178246eee54a449446ae4990c|Malicious RAR archive
+e438a4859aea79ea418fb190f68f840e701778267e1ffeaef3195ba21fe5014a|Malicious RAR archive
+b8fb84cc850c7a2df3ab16171975ff6a92406690df6ba2bc82d44c5227f69134|Malicious RAR archive
+63c12f66ef4bac065a4472639c62a65d88027b86d6b8d85775da0813ecd1d771|Malicious RAR archive
+9785029fcc1d070fae4d5c6a41224a06c9aebac0f4fa04f622c041d304dee8bd|Malicious RAR archive
+1aa837b1017366b0fa38b25de83b4fd207898a5f058b87661e5b94d59c374c40|Malicious RAR archive
+97361a91ba80981ca549ed19b2e2b9250fed6231027cd15418578b3db76b02ab|Malicious RAR archive
+ac985354b7efd4356954c316c797e56ed88aa4651798bd79b5c7ebb353546a30|Malicious ARJ archive
+afa005ad2707e4b6e1e565091c57ec5abdf45cd738bd1f1edfc04fcca1ad9c64|Malicious ARJ archive
+4fa6cc449144cab865cbf08823c2dbd65f9a78874e7fb673671243cebde12185|Malicious ARJ archive
+443f7d8f68bad52c8eba786f96e56d7a515536be33a64fc7a504d89df36d4301|Malicious ARJ archive
+435c462bf2cc6e85cf23a5e89a530d74ffeded42811584282e0028eb51656b3a|Malicious ARJ archive
+9caeceba523e8edf6c66dad74d637eb2a543665926198a8ec4bd2706ba2e5c93|Malicious ARJ archive
+332414b948cd6d23138e32ca305a1d0bed77dfd3fd8cf740caa1d1d540130fef|Malicious ARJ archive
+53415da748357289ce4a07ceaea79515d0c5af8488e9c00358399c043956e9d4|Malicious ARJ archive
+bd7237f92cc020ed71ae08a2eff01159900242164030c5c006191c4ca5322961|GammaDrop, 1_16_2_1062_02.03.2026.vbs
+9ca63c6b5888bf4a2ba5ab4c6eae8d06cb995e725af56c832d80793bcee3fc32|GammaDrop, 3_15_1_1829_02.03.2026.vbs
+9b53a28d0435c3aaed88dcad1613be069c5b0a26e60be53e3288587a4954ccd6|GammaDrop, 3_12_4_1480_13.03.2026.vbs
+62818ae5e305b89b9461536dac1b9daf4cebd99d24e417357e27e2ae4582a704|GammaDrop, 1_13_4_1882_18.03.2026.vbs
+245a3b5790ff9bc88a9133d4e03f4fd8bec0e8d0ec7ad5baaecf4809a4bc14f2|GammaDrop, 2_12_1_1428_18.03.2026.vbs
+d6b9448f1c2d0615c19ed9cb98a118bb862efd4a0de9a52e023c1d56b6a527eb|GammaDrop, 5_11_1_1827_18.03.2026.vbs
+76adb34079bafcba8085ee5e776c971ec1b2a06b9a86ce4d05f5e9a2c8a2cd86|GammaDrop, 3_14_9_1047_08.04.2026.vbs
+9106604572e0f4b2f46929ba3c63701be6db4b0ae109a2c4f9a39d9a88dd5cc9|GammaDrop, 1_13_6_1029_09.04.2026.vbs
+229a2d142e425f747bf995360058ffef0cd854fbec935d2be1b10d1c889def86|GammaDrop, 1_15_6_1354_09.04.2026.vbs
+873f4d4705b0532d4748ad8af54932020b2fe1071a3dc458b31b386b7df92da1|GammaDrop, 1_16_1_1321_09.04.2026.vbs
+bfbb8ca8827dd73157eadcde062a0524fe68590478f06957285ff3c3ed732931|GammaDrop, 1_18_8_1717_09.04.2026.vbs
+ffb013ed760720ecad2300561ae7c1f5bdfb6a7c77ff1d358ac0c1a0e040c186|GammaDrop, 1_18_9_1903_09.04.2026.vbs
+d4cd014e94d33d776fef2d372157c69b6fe6e4bf7231e4259c6ea7808d9d6553|GammaDrop, 1_19_9_1644_09.04.2026.vbs
+68d34e98f1824083cd9b7c72a9597a31d131a0f2f2baa767262f264001c99c04|GammaDrop, 2_19_8_1397_09.04.2026.vbs
+56df5e14408f9266cd89c43b9464ea71b65cc1848f1b10fbdf8949776115f4c3|GammaDrop, 3_11_3_1301_09.04.2026.vbs
+279e484dfb546e7ad84d5650572bb51d5180b431fdc8c0669e69e69d9a693bd5|GammaDrop, 4_11_4_1217_09.04.2026.vbs
+af45888cdbff3927af6a28ca3a2a4e5e1fca209732761a9c2ba8b8c9b2c6b2bb|GammaDrop, 4_17_9_1483_09.04.2026.vbs
+0a47d742555407201d0da7d6abca8d7d6a1dbcf28742687f4b835f17b69371e6|GammaDrop, 5_13_2_1280_09.04.2026.vbs
+535a3e35ebaf4d26ed45cfb701250d00c078ba851f003d3104beb7940b8c7bb4|GammaDrop, 5_14_3_1060_09.04.2026.vbs
+6e016724df082936cc98869b30134845ae6455e1b551e3fe421d2cdb7ed1dc66|GammaDrop, 5_18_4_1202_09.04.2026.vbs
+0b4ca7afcbb02b0a3c7873752a8e4df9d4ce2fc8e56a223bef5f99c6ee277cc9|GammaDrop, 5_19_2_1149_09.04.2026.vbs
+87c163c42f4328e71ec3f4997593751bd5b9d00e85a80e65c8e7312e3ab4bcc5|GammaDrop, 5_19_6_1546_09.04.2026.vbs
+460621fff09cebcbd2ded09dd933ed66952d98c787548131136f3692d504fb44|GammaDrop, 3_12_5_1759_10.04.2026.vbs
+08f7e1d85145fcd6bbc3787fee127876e0f47a1002d52b1bcc02ba1719dc87df|GammaDrop, 3_16_9_1769_10.04.2026.vbs
+3ad10a3dfa76821fef436847fda698e061fa81ccd280f30edc82d036f7c621f3|GammaDrop, 5_19_3_1882_10.04.2026.vbs
+dfd5247067a617e441c1cbabb8b9431030bf36405e80b2a72bf879ebedcaef84|GammaDrop, 2_14_3_1334_12.04.2026.vbs
+4447722064bc617d342da4f9a26dd6a5d412cd7d9d9214340bf2c8782e6277f6|GammaDrop, 1_16_4_1690_13.04.2026.vbs
+3dcc9bf0803af1560d56ebe0fa524b0d6bb2554022d0feeb8634d8b9dde0c607|GammaDrop, 1_17_4_1868_13.04.2026.vbs
+e78a7fdd8c997fd21f5ffd91c8a670511f4494b41e4d8d72e8b20910f321bf78|GammaDrop, 3_12_6_1620_13.04.2026.vbs
+1a438fd50762b104d3ef0aaddb94e30527773845974ec65efb95749d6d8f99bc|GammaDrop, 3_16_3_1732_13.04.2026.vbs
+f7b5aa1b1a57c3e24b17dd0e85c900933a857212eee637b6c0020b280c9f4ad9|GammaDrop, 4_13_5_1178_13.04.2026.vbs
+824100ecbbdea7a576d4c68b0815003d37b39c84e213320c296f609f53193d8f|GammaDrop, 4_12_9_1651_14.04.2026.vbs
+6f83e020c07587aa71fdf20ee43c8643d37feeebab0dba839301b5597b0a87b3|GammaDrop, 4_15_6_1387_14.04.2026.vbs
+c4546dcd30f7bf5397d7f4906da01db55990796ca4b79515f16090f3fe85005b|GammaDrop, 5_17_8_1124_14.04.2026.vbs
+85eb88f01bd4de0d052c8109bc11baa7c1893e11002bea17bf7c18305dd9a8ea|GammaDrop, 3_14_1_1191_16.04.2026.vbs
+c6afe1a912548fcec511af5efb2c66e4267f71b46f5b4802bf02271b34a3f49a|GammaDrop, 5_19_1_1602_28.04.2026.vbe
+9a7053ce9d9959619f35ee58c0dcafc301dc3b29d00695a9d6aac26d3913f795|GammaDrop, 3_14_7_1058_28.04.2026.vbe
+9df73f01233136268426aa5fa1c5f220f302db5ff2ab7739ca7fe60f600e751b|GammaDrop, 3_19_9_1322_28.04.2026.vbe
+ddf34d901048ad25626d4a23965caeee2ccb0006f80baa2959de120e80ac1ebc|GammaDrop, 4_13_3_1793_28.04.2026.vbe
+f58c4ce227f68f75df8eb7511a83c88a4837f8a19c5cda59fd0762e0480edadd|GammaDrop, 1_11_6_1445_29.04.2026.vbe
+ae89c82b1620fc32ef720778a41e92965be412d3bfa6f62b7348e4f5463b6359|GammaDrop, 3_17_2_1135_29.04.2026.vbe
+d37d74e97f0d39c7f6703e4384af86ce4952693fac916c0a3d5b390a2fd00184|GammaDrop, 3_18_1_1313_29.04.2026.vbe
+c2a5aa9298b3fa2eaeaf92e297f0c8fde1f2bbb216ea40c961e544057c975352|GammaDrop, 5_16_4_1767_29.04.2026.vbe
+4f15ca9dd66cc3d5a8dc89eefe92d445432e17aeea7cab9fb06f646a550a0149|GammaDrop, 2_16_2_1431_29.04.2026.vbe
+4d0384aa2bc171c97d3ea10e1802185157452dc1590d7368a089d74d844fb21c|GammaDrop, 1_17_1_1950_04.05.2026.vbe
+a6efbf9ea74fcc0fccbcc4d41104a6d602ee8d754f8d16e64fc9b17b0ce43e36|GammaDrop, 1_17_5_1201_04.05.2026.vbe
+5016e66fccfe9d7c255b616bbd7194e1de47cc750e274d2aa7485a98d798d174|GammaDrop, 5_18_1_1764_04.05.2026.vbe
+40357c6a326f5e669b304295941308b83af1b7bdedb3c636a7128d28befcf85e|GammaDrop, Scan_1_14_9_1524_05.05.2026.HTA
+ecc6b07413cd515de1be8dd92ca4b7df808d4e118067e4617858ad5e48c40fbf|GammaDrop, Scan_4_16_7_1669_05.05.2026.HTA
+eea39c6a3d7553e6a4151a37f9d28c6d6a883aac868f3a430c799b4a0de0e17c|GammaDrop, ScanDocuments_version.PDF.Creater_2_13_4_1043_07.05.2026.HTA
+0c7a9137b494efc20050fcb0098d0ba536b9a4ac48329c808714eda168d7bdfa|GammaDrop, ScanDocuments_version.PDF.Creater_2_15_6_1595_07.05.2026.HTA
+ab9781dff29b1bf6170c9a71ca36657725b7af25eaf0ef18d2b1d344fa9e2a32|GammaDrop, ScanDocuments_version.PDF.Creater_4_14_6_1485_07.05.2026.HTA
+85d978f9b2b85b1bfa014e6ba5fc7e94f04f62f3f00cbee0187926e0090772b4|GammaDrop, ScanDocuments_version.PDF.Creater_1_17_3_1707_08.05.2026.HTA
+2193d48e58732e26bf212e027fceda8974a9cedbb55281bd30550a28894aef2d|GammaDrop, ScanDocuments_version.PDF.Creater_3_14_8_1655_08.05.2026.HTA
+b7dbccad9a40c20194edcde7d1bc1724ec55d97be5882fb635395919539a9be4|GammaDrop, ScanDocuments_version.PDF.Creater_5_12_6_1772_08.05.2026.HTA
+c0b7a42bd52d3b21de66ce8437d9a068eacc3feb065202d32377690c9a80d580|GammaLoad, 2_14_1_1240_10.02.2026.HTA
+86d9357bda4769036362832c039dbe800121ed9a966e8b59a3f9cccab61cdafb|GammaLoad, 1_13_8_1628_11.02.2026.HTA
+580bfbdd7fad1d218b4cf0903c44c67c5f35617ced93d397e7b1397bbf9664fb|GammaLoad, 2_19_9_1444_17.02.2026.HTA
+865795d330285efe0b178a1bbee3b2117ff7573dac60b09d899e0de6602b8e12|GammaLoad, 4_17_4_1028_18.02.2026.HTA
+f2a31d145aa55a9d119f30884605df4e101a77e18c8fe30f2b1a1a75ff670169|GammaLoad, 5_16_7_1556_18.02.2026.HTA
+f20a28ac0b62748a1562115a93e4d21d7bb3fd17fbe34dbb0d26fb73b3356b6e|GammaLoad, 5_12_7_1589_24.02.2026.HTA
+b47d7cd9444cfd97f77d2d0be9bb33a15f44304a293df70a2905d8120b11f6ce|GammaLoad, 1_12_2_1951_25.02.2026.HTA
+5ad055b7f80b2c0f0f11ec90d9b401dc5317cf23983e7c49f5eb3bb06f9d81d1|GammaLoad, 5_13_8_1989_26.02.2026.HTA
+2bef643f22532f907ea64f31663564e42697577d4a06f57399ecfce9aaf939a7|GammaLoad
+4301fcede1fb8440f0ccefa09a4b2bd29757bde9e60dcfa1d27a5d9dbb5cbdbd|GammaLoad, gQwdJ9Li.txt
+2b7c52fda08833d5b65d75510d925c448403883376123f53e6c44788426979ca|GammaLoad, admiration.hta
+4942030fc49b6095097afae368a216e78f9c29d34d932ec6a6f25aa4370fe976|GammaLoad
+1f8a3ec047e0f44f1f21e1e3f8af5ea32749ecac3e2bef4fc2ba1a2006934581|GammaLoad
+9fc2a247313b078d795419b7d1c7c0cd907a103a4c64ebab6c96ddb7b958d230|GammaLoad
+aa572532ab1c8a731e7ba32e97ba180268eee8e6a74a2b9c4dc3efb669edb9af|GammaLoad
+acf6196228f25d0c9f172c7401b5f2c2ba1d30f847e5626678630458e7529c97|GammaLoad, receiverp1l.htm
+b789da8b71282678f5dc1a45ec65c02d646887cd365af2213b9cac76bae5b1a2|GammaLoad
+69cdde1ec82099a471283de89dd5e17266b1d8dda57d3c1589b7754b009fa2ed|GammaLoad, brushedGpI.hta
+
+#### File paths
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_16_2_1062_02.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_15_1_1829_02.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_12_4_1480_13.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_13_4_1882_18.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\2_12_1_1428_18.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_11_1_1827_18.03.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_14_9_1047_08.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_13_6_1029_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_15_6_1354_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_16_1_1321_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_18_8_1717_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_18_9_1903_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_19_9_1644_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\2_19_8_1397_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_11_3_1301_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_11_4_1217_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_17_9_1483_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_13_2_1280_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_14_3_1060_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_18_4_1202_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_19_2_1149_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_19_6_1546_09.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_12_5_1759_10.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_16_9_1769_10.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_19_3_1882_10.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\2_14_3_1334_12.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_16_4_1690_13.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_17_4_1868_13.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_12_6_1620_13.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_16_3_1732_13.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_13_5_1178_13.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_12_9_1651_14.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_15_6_1387_14.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_17_8_1124_14.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_14_1_1191_16.04.2026.vbs|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_19_1_1602_28.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_14_7_1058_28.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_19_9_1322_28.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\4_13_3_1793_28.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_11_6_1445_29.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_17_2_1135_29.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_18_1_1313_29.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_16_4_1767_29.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\2_16_2_1431_29.04.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_17_1_1950_04.05.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_17_5_1201_04.05.2026.vbe|GammaDrop
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\5_18_1_1764_04.05.2026.vbe|GammaDrop
+%TEMP%\brushedGpI.hta|GammaLoad
+%TEMP%\clamourbKy|GammaLoad
+%TEMP%\ricebG3|GammaLoad
+%TEMP%\peacefullyCDS|GammaLoad
+%TEMP%\recordmK6|GammaLoad
+%TEMP%\expandedP8a|GammaLoad
+%TEMP%\autographNn9|GammaLoad
+%TEMP%\cabinXoi|GammaLoad
+%TEMP%\punctualttg|GammaLoad
+
+#### Domains
+kosoyed[.]ru|GammaLoad fallback C2
+uarefire[.]ru|GammaLoad fallback C2
+youaresilent[.]ru|GammaLoad fallback C2
+antresolle[.]ru|GammaLoad fallback C2
+complicaty[.]ru|GammaLoad fallback C2
+yourrain[.]ru|GammaLoad fallback C2
+oclouds[.]ru|GammaLoad fallback C2
+complicaty[.]ru|GammaLoad primary C2
+rubakovox[.]pro|GammaDrop C2
+astrocaf[.]com|Malicious email infrastructure
+
+#### Additional Gamaredon Domains
+norosta[.]ru
+stradrol[.]ru
+tienes[.]ru
+drygmetal[.]ru
+holyglore[.]ru
+kimiga[.]ru
+areyouall[.]ru
+bakaden[.]ru
+best-sluts-ukraine[.]ru
+bluradon[.]ru
+broposez[.]ru
+esoque[.]ru
+nordovol[.]ru
+gekka[.]ru
+selltosell[.]ru
+mstobik[.]ru
+nomame[.]ru
+poracholly[.]ru
+pro-bros[.]ru
+sellingleft[.]ru
+stromatog[.]ru
+ulisar[.]ru
+vergadol[.]ru
+mumbradi[.]ru
+yumeglory[.]ru
+buhembald[.]ru
+nushtosh[.]ru
+bulyabo[.]ru
+kingandsh[.]ru
+lesregines[.]ru
+mirroran[.]ru
+vodosmot[.]ru
+barentsot[.]ru
+accountand[.]ru
+consentesto[.]ru
+festucamos[.]ru
+adiantumso[.]ru
+aquariusso[.]ru
+progerod[.]ru
+fatuamos[.]ru
+vifpor[.]ru
+bibitron[.]ru
+antarcticos[.]ru
+mortumakaab[.]ru
+eldjip[.]ru
+invictusto[.]ru
+bitorgas[.]ru
+ludoida[.]ru
+aethionemaso[.]ru
+alismaso[.]ru
+alliumso[.]ru
+andamanos[.]ru
+arabianos[.]ru
+beringos[.]ru
+tadrogim[.]ru
+kaelos[.]ru
+indianos[.]ru
+lovetco[.]ru
+tomatron[.]ru
+balduron[.]ru
+mashalled[.]ru
+drakhalos[.]ru
+vukongos[.]ru
+sativamos[.]ru
+reforto[.]ru
+semikos[.]ru
+fortunatos[.]ru
+nandayo[.]ru
+triticumos[.]ru
+credomched[.]ru
+balticos[.]ru
+acorusso[.]ru
+zerodems[.]ru
+conservatis[.]ru
+gitorfa[.]ru
+domestikon[.]ru
+geniusto[.]ru
+calclus[.]ru
+rotosol[.]ru
+artakin[.]ru
+urdevont[.]ru
+voulumonte[.]ru
+erroton[.]ru
+nododru[.]ru
+vitorog[.]ru
+auxiliatos[.]ru
+pratensismos[.]ru
+noportor[.]ru
+lestemps[.]ru
+trunda[.]ru
+pacificos[.]ru
+atlanticos[.]ru
+visiksa[.]ru
+columbaso[.]ru
+marimashe[.]ru
+allohad[.]ru
+lasculpture[.]ru
+aestivumos[.]ru
+elvalos[.]ru
+mitrala[.]ru
+iuppitertos[.]ru
+logitrap[.]ru
+herculeso[.]ru
+hordeumos[.]ru
+blakurin[.]ru
+wukongo[.]ru
+geminiso[.]ru
+kolontra[.]ru
+monitral[.]ru
+xenophorm[.]ru
+aluran[.]ru
+arcticos[.]ru
+hotun[.]ru
+bromusmos[.]ru
+quiapour[.]ru
+skilan[.]ru
+virgoso[.]ru
+venustos[.]ru
+mitralos[.]ru
+andromedas[.]ru
+artakos[.]ru
+aurigaso[.]ru
+bootesso[.]ru
+bortorad[.]ru
+caelestisto[.]ru
+cathedrales[.]ru
+corvusso[.]ru
+dedesir[.]ru
+distichonmos[.]ru
+indigetesto[.]ru
+kamnotop[.]ru
+kandrafolos[.]ru
+labellen[.]ru
+larumtos[.]ru
+lesartistes[.]ru
+lesetoiles[.]ru
+libraso[.]ru
+lopraqum[.]ru
+maplils[.]ru
+nikortal[.]ru
+ninjagoa[.]ru
+noprotal[.]ru
+novensilesto[.]ru
+orbentis[.]ru
+orvillo[.]ru
+pohudim[.]ru
+secalemos[.]ru
+siphilos[.]ru
+staltulos[.]ru
+tenterons[.]ru
+visiksat[.]ru
+dvadrugash[.]ru
+estaca[.]ru
+crudoes[.]ru
+rozalinde[.]ru
+aguas[.]ru
+lihoradit[.]ru
+madres[.]ru
+iraliv[.]ru
+andbien[.]ru
+boobasword[.]ru
+movingdeath[.]ru
+bluera[.]ru
+crokul[.]ru
+dafyp[.]ru
+leobard[.]ru
+letsgout[.]ru
+mekras[.]ru
+boppekax[.]ru
+eleanorva[.]ru
+yourfocus[.]ru
+tilldeath[.]ru
+bloodyhand[.]ru
+mirtogra[.]ru
+tarapost[.]ru
+victortes[.]ru
+grozur[.]ru
+bistorgo[.]ru
+soportas[.]ru
+burriton[.]ru
+soprorotos[.]ru
+leorius[.]ru
+muchkino[.]ru
+hitorova[.]ru
+golfaris[.]ru
+sifiro[.]ru
+rotosa[.]ru
+regotras[.]ru
+frastron[.]ru
+virobas[.]ru
+fahrakin[.]ru
+siphorov[.]ru
+notoros[.]ru
+feorant[.]ru
+secretah[.]ru
+replacemend[.]ru
+koloprast[.]ru
+billonda[.]ru
+huskino[.]ru
+tomatong[.]ru
+continiym[.]ru
+milotran[.]ru
+mopotran[.]ru
+babaskan[.]ru
+fartodti[.]ru
+monkyking[.]ru
+podriks[.]ru
+retrop[.]ru
+rotoslav[.]ru
+
+#### Suspicious related domains
+scdevelopements[.]com|Based on SSL CERT SHA1 43516afe903ff66743730e5cff4147183b563148
+
+#### Hostnames
+relay.astrocaf[.]com|Malicious email infrastructure
+heart7766.vmkyieebw2.workers[.]dev|GammaLoad Cloudflare worker
+47ad.pdjqa15890.workers[.]dev|GammaLoad Cloudflare worker
+f6f8.bzvbl72942.workers[.]dev|GammaLoad Cloudflare worker
+7799.nlufx08035.workers[.]dev|GammaLoad Cloudflare worker
+6cab.pxlbg77972.workers[.]dev|GammaLoad Cloudflare worker
+db6b.vmocs87616.workers[.]dev|GammaLoad Cloudflare worker
+46c0.sqogj22317.workers[.]dev|GammaLoad Cloudflare worker
+2ad1.gmuds90318.workers[.]dev|GammaLoad Cloudflare worker
+raspy.bzcku21528.workers[.]dev|GammaLoad Cloudflare worker
+long-king-02b7.5ekz2z6pjk.workers[.]dev|GammaLoad Cloudflare worker
+broken-dust-20eb.bnxaz24270.workers[.]dev|GammaLoad Cloudflare worker
+livelyfeather.ydqbg11598.workers[.]dev|GammaLoad Cloudflare worker
+favoriteclown.endl[.]site|GammaLoad Primary C2
+iguessillgoout.myvnc[.]com|GammaLoad DDNS
+tillthesunrise.sytes[.]net|GammaLoad DDNS
+vaporblue.ddnsking[.]com|GammaLoad DDNS
+daremoinai.bounceme[.]net|GammaLoad DDNS
+bloodywolves.ddns[.]net|GammaLoad DDNS
+massadex.3utilities[.]com|GammaLoad DDNS
+worker.3utilities[.]com|GammaLoad DDNS
+throbsuns2.h4puonhajw.workers[.]dev|GammaDrop Cloudflare worker
+bed-office-original-bytes.trycloudflare[.]com|GammaDrop Cloudflare quick tunnel
+2f34.u9wixg8dcxrxw.workers[.]dev|GammaDrop Cloudflare worker
+ab0f2.xh0lr6gvbtqopyp.workers[.]dev|GammaDrop Cloudflare worker
+b80.sc9nj1tx.workers[.]dev|GammaDrop Cloudflare worker
+bf7.he2p9djjz.workers[.]dev|GammaDrop Cloudflare worker
+busha80d.dp7uszdstai.workers[.]dev|GammaDrop Cloudflare worker
+c71.zb41e6kcfa.workers[.]dev|GammaDrop Cloudflare worker
+cf2.tcrn7uoroffxls.workers[.]dev|GammaDrop Cloudflare worker
+fallze2e73.l1uxclprg1cj.workers[.]dev|GammaDrop Cloudflare worker
+sweetnce.kw68guncvjq.workers[.]dev|GammaDrop Cloudflare worker
+hatf8d7.oxwqplxmoyjpe.workers[.]dev|GammaDrop Cloudflare worker
+sb353.rug5o12yj2pa.workers[.]dev|GammaDrop Cloudflare worker
+squc32.ke3fm3xwqbhi.workers[.]dev|GammaDrop Cloudflare worker
+ss975.zsq7cmi9.workers[.]dev|GammaDrop Cloudflare worker
+thre6d.rfgah07ggr.workers[.]dev|GammaDrop Cloudflare worker
+lin95.lp6kxqip.workers[.]dev|GammaDrop Cloudflare worker
+300a.mbdudar2m.workers[.]dev|GammaDrop Cloudflare worker
+bittere63e.gcjc7ulfg8zc.workers[.]dev|GammaDrop Cloudflare worker
+qu776.nsdbzy1t.workers[.]dev|GammaDrop Cloudflare worker
+mnf8b.wcpxlxtnk.workers[.]dev|GammaDrop Cloudflare worker
+tigh8d.wnsmohinpf.workers[.]dev|GammaDrop Cloudflare worker
+pati1fa.gusnqojic0byx.workers[.]dev|GammaDrop Cloudflare worker
+mo88.dmnfesfnadt3.workers[.]dev|GammaDrop Cloudflare worker
+li751.ffoqdlqg.workers[.]dev|GammaDrop Cloudflare worker
+mug-holmes-oklahoma-exception.trycloudflare[.]com|GammaDrop Cloudflare quick tunnel
+lively-disk-b5d5.tiffany88-140.workers[.]dev|GammaDrop Cloudflare worker
+oreb1.qxjmxpd8dfr.workers[.]dev|GammaDrop Cloudflare worker
+
+#### IP Addresses
+Excluding IP addresses used for fast flux
+77.110.107[.]165|GammaLoad primary C2 (seen 2025-11-25)
+107.189.19[.]48|GammaLoad primary C2 (seen 2025-12-02)
+5.181.2[.]158|GammaLoad primary C2 (seen 2025-11-18)
+194.58.66[.]82|Malicious email relay
