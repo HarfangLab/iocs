@@ -1,4 +1,4 @@
-#### Hashes (SHA-256)
+# Hashes (SHA-256)
 ecb9609989dce48f78d4fa83abf3dae5592dd4e332d27f005e652c4f82d0b3c2|Malicious RAR archive
 79953d26671e6ae3b8d7e5d0efe63f63f6b616b50e7d3dcbf50b16fc600aef55|Malicious RAR archive
 48092a501ec64564e2bf2e3c79c1f96c490231abcae6ef02499570fa41d63ab2|Malicious RAR archive
@@ -120,7 +120,7 @@ acf6196228f25d0c9f172c7401b5f2c2ba1d30f847e5626678630458e7529c97|GammaLoad, rece
 b789da8b71282678f5dc1a45ec65c02d646887cd365af2213b9cac76bae5b1a2|GammaLoad
 69cdde1ec82099a471283de89dd5e17266b1d8dda57d3c1589b7754b009fa2ed|GammaLoad, brushedGpI.hta
 
-#### File paths
+# File paths
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\1_16_2_1062_02.03.2026.vbs|GammaDrop
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_15_1_1829_02.03.2026.vbs|GammaDrop
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\3_12_4_1480_13.03.2026.vbs|GammaDrop
@@ -178,7 +178,7 @@ b789da8b71282678f5dc1a45ec65c02d646887cd365af2213b9cac76bae5b1a2|GammaLoad
 %TEMP%\cabinXoi|GammaLoad
 %TEMP%\punctualttg|GammaLoad
 
-#### Domains
+# Domains
 kosoyed[.]ru|GammaLoad fallback C2
 uarefire[.]ru|GammaLoad fallback C2
 youaresilent[.]ru|GammaLoad fallback C2
@@ -190,7 +190,7 @@ complicaty[.]ru|GammaLoad primary C2
 rubakovox[.]pro|GammaDrop C2
 astrocaf[.]com|Malicious email infrastructure
 
-#### Additional Gamaredon Domains
+# Additional Gamaredon Domains
 norosta[.]ru
 stradrol[.]ru
 tienes[.]ru
@@ -401,10 +401,10 @@ podriks[.]ru
 retrop[.]ru
 rotoslav[.]ru
 
-#### Suspicious related domains
+# Suspicious related domains
 scdevelopements[.]com|Based on SSL CERT SHA1 43516afe903ff66743730e5cff4147183b563148
 
-#### Hostnames
+# Hostnames
 relay.astrocaf[.]com|Malicious email infrastructure
 heart7766.vmkyieebw2.workers[.]dev|GammaLoad Cloudflare worker
 47ad.pdjqa15890.workers[.]dev|GammaLoad Cloudflare worker
@@ -455,7 +455,7 @@ mug-holmes-oklahoma-exception.trycloudflare[.]com|GammaDrop Cloudflare quick tun
 lively-disk-b5d5.tiffany88-140.workers[.]dev|GammaDrop Cloudflare worker
 oreb1.qxjmxpd8dfr.workers[.]dev|GammaDrop Cloudflare worker
 
-#### IP Addresses
+# IP Addresses
 Excluding IP addresses used for fast flux
 77.110.107[.]165|GammaLoad primary C2 (seen 2025-11-25)
 107.189.19[.]48|GammaLoad primary C2 (seen 2025-12-02)
